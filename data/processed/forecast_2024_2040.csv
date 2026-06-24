@@ -1,0 +1,4438 @@
+year,predicted_score,country_code,country_name
+2024,5.71,ABW,Aruba
+2025,5.71,ABW,Aruba
+2026,5.71,ABW,Aruba
+2027,5.71,ABW,Aruba
+2028,5.71,ABW,Aruba
+2029,61.98,ABW,Aruba
+2030,62.38,ABW,Aruba
+2031,62.78,ABW,Aruba
+2032,63.18,ABW,Aruba
+2033,63.57,ABW,Aruba
+2034,63.95,ABW,Aruba
+2035,64.33,ABW,Aruba
+2036,64.71,ABW,Aruba
+2037,65.08,ABW,Aruba
+2038,65.45,ABW,Aruba
+2039,65.82,ABW,Aruba
+2040,66.18,ABW,Aruba
+2024,75.65,AFE,Africa Eastern and Southern
+2025,70.3,AFE,Africa Eastern and Southern
+2026,60.35,AFE,Africa Eastern and Southern
+2027,60.46,AFE,Africa Eastern and Southern
+2028,60.66,AFE,Africa Eastern and Southern
+2029,60.99,AFE,Africa Eastern and Southern
+2030,61.32,AFE,Africa Eastern and Southern
+2031,61.65,AFE,Africa Eastern and Southern
+2032,61.99,AFE,Africa Eastern and Southern
+2033,62.33,AFE,Africa Eastern and Southern
+2034,62.68,AFE,Africa Eastern and Southern
+2035,63.04,AFE,Africa Eastern and Southern
+2036,63.4,AFE,Africa Eastern and Southern
+2037,63.76,AFE,Africa Eastern and Southern
+2038,64.13,AFE,Africa Eastern and Southern
+2039,64.5,AFE,Africa Eastern and Southern
+2040,64.87,AFE,Africa Eastern and Southern
+2024,5.71,AFG,Afghanistan
+2025,5.71,AFG,Afghanistan
+2026,5.71,AFG,Afghanistan
+2027,5.71,AFG,Afghanistan
+2028,5.71,AFG,Afghanistan
+2029,59.41,AFG,Afghanistan
+2030,59.79,AFG,Afghanistan
+2031,60.17,AFG,Afghanistan
+2032,60.55,AFG,Afghanistan
+2033,60.92,AFG,Afghanistan
+2034,61.28,AFG,Afghanistan
+2035,61.65,AFG,Afghanistan
+2036,62.0,AFG,Afghanistan
+2037,62.36,AFG,Afghanistan
+2038,62.71,AFG,Afghanistan
+2039,63.05,AFG,Afghanistan
+2040,63.39,AFG,Afghanistan
+2024,78.83,AFW,Africa Western and Central
+2025,72.38,AFW,Africa Western and Central
+2026,60.75,AFW,Africa Western and Central
+2027,60.84,AFW,Africa Western and Central
+2028,61.02,AFW,Africa Western and Central
+2029,61.35,AFW,Africa Western and Central
+2030,61.68,AFW,Africa Western and Central
+2031,62.01,AFW,Africa Western and Central
+2032,62.34,AFW,Africa Western and Central
+2033,62.68,AFW,Africa Western and Central
+2034,63.02,AFW,Africa Western and Central
+2035,63.37,AFW,Africa Western and Central
+2036,63.73,AFW,Africa Western and Central
+2037,64.09,AFW,Africa Western and Central
+2038,64.45,AFW,Africa Western and Central
+2039,64.82,AFW,Africa Western and Central
+2040,65.18,AFW,Africa Western and Central
+2024,76.14,AGO,Angola
+2025,73.88,AGO,Angola
+2026,68.07,AGO,Angola
+2027,60.7,AGO,Angola
+2028,60.86,AGO,Angola
+2029,61.18,AGO,Angola
+2030,61.51,AGO,Angola
+2031,61.84,AGO,Angola
+2032,62.17,AGO,Angola
+2033,62.51,AGO,Angola
+2034,62.85,AGO,Angola
+2035,63.2,AGO,Angola
+2036,63.56,AGO,Angola
+2037,63.92,AGO,Angola
+2038,64.28,AGO,Angola
+2039,64.64,AGO,Angola
+2040,65.01,AGO,Angola
+2024,69.67,ALB,Albania
+2025,67.7,ALB,Albania
+2026,63.39,ALB,Albania
+2027,57.78,ALB,Albania
+2028,57.99,ALB,Albania
+2029,58.32,ALB,Albania
+2030,58.66,ALB,Albania
+2031,59.01,ALB,Albania
+2032,59.37,ALB,Albania
+2033,59.74,ALB,Albania
+2034,60.1,ALB,Albania
+2035,60.47,ALB,Albania
+2036,60.84,ALB,Albania
+2037,61.21,ALB,Albania
+2038,61.59,ALB,Albania
+2039,61.96,ALB,Albania
+2040,62.34,ALB,Albania
+2024,5.71,AND,Andorra
+2025,5.71,AND,Andorra
+2026,5.71,AND,Andorra
+2027,5.71,AND,Andorra
+2028,5.71,AND,Andorra
+2029,62.69,AND,Andorra
+2030,63.1,AND,Andorra
+2031,63.5,AND,Andorra
+2032,63.9,AND,Andorra
+2033,64.29,AND,Andorra
+2034,64.68,AND,Andorra
+2035,65.06,AND,Andorra
+2036,65.44,AND,Andorra
+2037,65.82,AND,Andorra
+2038,66.19,AND,Andorra
+2039,66.55,AND,Andorra
+2040,66.92,AND,Andorra
+2024,47.99,ARB,Arab World
+2025,52.43,ARB,Arab World
+2026,57.41,ARB,Arab World
+2027,57.93,ARB,Arab World
+2028,58.09,ARB,Arab World
+2029,58.43,ARB,Arab World
+2030,58.78,ARB,Arab World
+2031,59.13,ARB,Arab World
+2032,59.49,ARB,Arab World
+2033,59.86,ARB,Arab World
+2034,60.22,ARB,Arab World
+2035,60.6,ARB,Arab World
+2036,60.97,ARB,Arab World
+2037,61.34,ARB,Arab World
+2038,61.72,ARB,Arab World
+2039,62.1,ARB,Arab World
+2040,62.48,ARB,Arab World
+2024,5.78,ARE,United Arab Emirates
+2025,9.08,ARE,United Arab Emirates
+2026,21.6,ARE,United Arab Emirates
+2027,36.53,ARE,United Arab Emirates
+2028,41.86,ARE,United Arab Emirates
+2029,42.28,ARE,United Arab Emirates
+2030,42.7,ARE,United Arab Emirates
+2031,43.13,ARE,United Arab Emirates
+2032,43.56,ARE,United Arab Emirates
+2033,43.98,ARE,United Arab Emirates
+2034,44.41,ARE,United Arab Emirates
+2035,44.85,ARE,United Arab Emirates
+2036,45.28,ARE,United Arab Emirates
+2037,45.71,ARE,United Arab Emirates
+2038,46.14,ARE,United Arab Emirates
+2039,46.55,ARE,United Arab Emirates
+2040,46.92,ARE,United Arab Emirates
+2024,50.2,ARG,Argentina
+2025,51.87,ARG,Argentina
+2026,54.57,ARG,Argentina
+2027,58.15,ARG,Argentina
+2028,58.39,ARG,Argentina
+2029,58.74,ARG,Argentina
+2030,59.09,ARG,Argentina
+2031,59.44,ARG,Argentina
+2032,59.81,ARG,Argentina
+2033,60.18,ARG,Argentina
+2034,60.55,ARG,Argentina
+2035,60.93,ARG,Argentina
+2036,61.31,ARG,Argentina
+2037,61.69,ARG,Argentina
+2038,62.08,ARG,Argentina
+2039,62.46,ARG,Argentina
+2040,62.85,ARG,Argentina
+2024,50.32,ARM,Armenia
+2025,51.84,ARM,Armenia
+2026,54.78,ARM,Armenia
+2027,58.25,ARM,Armenia
+2028,58.57,ARM,Armenia
+2029,58.9,ARM,Armenia
+2030,59.24,ARM,Armenia
+2031,59.58,ARM,Armenia
+2032,59.93,ARM,Armenia
+2033,60.29,ARM,Armenia
+2034,60.65,ARM,Armenia
+2035,61.01,ARM,Armenia
+2036,61.37,ARM,Armenia
+2037,61.74,ARM,Armenia
+2038,62.11,ARM,Armenia
+2039,62.48,ARM,Armenia
+2040,62.86,ARM,Armenia
+2024,5.71,ASM,American Samoa
+2025,5.71,ASM,American Samoa
+2026,5.71,ASM,American Samoa
+2027,5.71,ASM,American Samoa
+2028,5.71,ASM,American Samoa
+2029,59.89,ASM,American Samoa
+2030,60.28,ASM,American Samoa
+2031,60.66,ASM,American Samoa
+2032,61.04,ASM,American Samoa
+2033,61.42,ASM,American Samoa
+2034,61.79,ASM,American Samoa
+2035,62.16,ASM,American Samoa
+2036,62.52,ASM,American Samoa
+2037,62.88,ASM,American Samoa
+2038,63.23,ASM,American Samoa
+2039,63.58,ASM,American Samoa
+2040,63.93,ASM,American Samoa
+2024,5.71,ATG,Antigua and Barbuda
+2025,5.71,ATG,Antigua and Barbuda
+2026,5.71,ATG,Antigua and Barbuda
+2027,5.71,ATG,Antigua and Barbuda
+2028,5.71,ATG,Antigua and Barbuda
+2029,61.0,ATG,Antigua and Barbuda
+2030,61.39,ATG,Antigua and Barbuda
+2031,61.79,ATG,Antigua and Barbuda
+2032,62.18,ATG,Antigua and Barbuda
+2033,62.56,ATG,Antigua and Barbuda
+2034,62.94,ATG,Antigua and Barbuda
+2035,63.32,ATG,Antigua and Barbuda
+2036,63.69,ATG,Antigua and Barbuda
+2037,64.06,ATG,Antigua and Barbuda
+2038,64.42,ATG,Antigua and Barbuda
+2039,64.78,ATG,Antigua and Barbuda
+2040,65.14,ATG,Antigua and Barbuda
+2024,42.04,AUS,Australia
+2025,45.18,AUS,Australia
+2026,48.76,AUS,Australia
+2027,52.25,AUS,Australia
+2028,52.65,AUS,Australia
+2029,53.13,AUS,Australia
+2030,53.61,AUS,Australia
+2031,54.09,AUS,Australia
+2032,54.55,AUS,Australia
+2033,54.98,AUS,Australia
+2034,55.37,AUS,Australia
+2035,55.74,AUS,Australia
+2036,56.11,AUS,Australia
+2037,56.47,AUS,Australia
+2038,56.83,AUS,Australia
+2039,57.18,AUS,Australia
+2040,57.53,AUS,Australia
+2024,63.53,AUT,Austria
+2025,61.95,AUT,Austria
+2026,58.65,AUT,Austria
+2027,53.92,AUT,Austria
+2028,54.48,AUT,Austria
+2029,54.9,AUT,Austria
+2030,55.32,AUT,Austria
+2031,55.74,AUT,Austria
+2032,56.17,AUT,Austria
+2033,56.59,AUT,Austria
+2034,57.02,AUT,Austria
+2035,57.45,AUT,Austria
+2036,57.88,AUT,Austria
+2037,58.3,AUT,Austria
+2038,58.74,AUT,Austria
+2039,59.17,AUT,Austria
+2040,59.61,AUT,Austria
+2024,42.43,AZE,Azerbaijan
+2025,46.38,AZE,Azerbaijan
+2026,51.74,AZE,Azerbaijan
+2027,58.02,AZE,Azerbaijan
+2028,58.53,AZE,Azerbaijan
+2029,58.86,AZE,Azerbaijan
+2030,59.19,AZE,Azerbaijan
+2031,59.53,AZE,Azerbaijan
+2032,59.88,AZE,Azerbaijan
+2033,60.24,AZE,Azerbaijan
+2034,60.6,AZE,Azerbaijan
+2035,60.96,AZE,Azerbaijan
+2036,61.32,AZE,Azerbaijan
+2037,61.69,AZE,Azerbaijan
+2038,62.06,AZE,Azerbaijan
+2039,62.43,AZE,Azerbaijan
+2040,62.8,AZE,Azerbaijan
+2024,5.71,BDI,Burundi
+2025,5.71,BDI,Burundi
+2026,5.71,BDI,Burundi
+2027,5.71,BDI,Burundi
+2028,5.71,BDI,Burundi
+2029,59.39,BDI,Burundi
+2030,59.77,BDI,Burundi
+2031,60.15,BDI,Burundi
+2032,60.53,BDI,Burundi
+2033,60.9,BDI,Burundi
+2034,61.26,BDI,Burundi
+2035,61.63,BDI,Burundi
+2036,61.98,BDI,Burundi
+2037,62.34,BDI,Burundi
+2038,62.69,BDI,Burundi
+2039,63.03,BDI,Burundi
+2040,63.37,BDI,Burundi
+2024,45.75,BEL,Belgium
+2025,48.71,BEL,Belgium
+2026,51.42,BEL,Belgium
+2027,55.08,BEL,Belgium
+2028,55.76,BEL,Belgium
+2029,56.19,BEL,Belgium
+2030,56.62,BEL,Belgium
+2031,57.05,BEL,Belgium
+2032,57.48,BEL,Belgium
+2033,57.91,BEL,Belgium
+2034,58.34,BEL,Belgium
+2035,58.78,BEL,Belgium
+2036,59.21,BEL,Belgium
+2037,59.65,BEL,Belgium
+2038,60.09,BEL,Belgium
+2039,60.53,BEL,Belgium
+2040,60.98,BEL,Belgium
+2024,74.07,BEN,Benin
+2025,71.88,BEN,Benin
+2026,68.54,BEN,Benin
+2027,60.9,BEN,Benin
+2028,61.08,BEN,Benin
+2029,61.4,BEN,Benin
+2030,61.73,BEN,Benin
+2031,62.06,BEN,Benin
+2032,62.39,BEN,Benin
+2033,62.73,BEN,Benin
+2034,63.08,BEN,Benin
+2035,63.43,BEN,Benin
+2036,63.79,BEN,Benin
+2037,64.15,BEN,Benin
+2038,64.51,BEN,Benin
+2039,64.87,BEN,Benin
+2040,65.23,BEN,Benin
+2024,83.85,BFA,Burkina Faso
+2025,81.7,BFA,Burkina Faso
+2026,77.85,BFA,Burkina Faso
+2027,71.74,BFA,Burkina Faso
+2028,60.93,BFA,Burkina Faso
+2029,61.27,BFA,Burkina Faso
+2030,61.61,BFA,Burkina Faso
+2031,61.96,BFA,Burkina Faso
+2032,62.32,BFA,Burkina Faso
+2033,62.69,BFA,Burkina Faso
+2034,63.05,BFA,Burkina Faso
+2035,63.42,BFA,Burkina Faso
+2036,63.79,BFA,Burkina Faso
+2037,64.16,BFA,Burkina Faso
+2038,64.53,BFA,Burkina Faso
+2039,64.9,BFA,Burkina Faso
+2040,65.28,BFA,Burkina Faso
+2024,63.57,BGD,Bangladesh
+2025,62.83,BGD,Bangladesh
+2026,61.43,BGD,Bangladesh
+2027,60.32,BGD,Bangladesh
+2028,60.57,BGD,Bangladesh
+2029,60.89,BGD,Bangladesh
+2030,61.21,BGD,Bangladesh
+2031,61.54,BGD,Bangladesh
+2032,61.87,BGD,Bangladesh
+2033,62.21,BGD,Bangladesh
+2034,62.55,BGD,Bangladesh
+2035,62.9,BGD,Bangladesh
+2036,63.26,BGD,Bangladesh
+2037,63.62,BGD,Bangladesh
+2038,63.98,BGD,Bangladesh
+2039,64.34,BGD,Bangladesh
+2040,64.7,BGD,Bangladesh
+2024,54.11,BGR,Bulgaria
+2025,54.57,BGR,Bulgaria
+2026,54.36,BGR,Bulgaria
+2027,54.58,BGR,Bulgaria
+2028,54.97,BGR,Bulgaria
+2029,55.31,BGR,Bulgaria
+2030,55.66,BGR,Bulgaria
+2031,56.02,BGR,Bulgaria
+2032,56.38,BGR,Bulgaria
+2033,56.75,BGR,Bulgaria
+2034,57.11,BGR,Bulgaria
+2035,57.48,BGR,Bulgaria
+2036,57.85,BGR,Bulgaria
+2037,58.23,BGR,Bulgaria
+2038,58.6,BGR,Bulgaria
+2039,58.98,BGR,Bulgaria
+2040,59.36,BGR,Bulgaria
+2024,5.9,BHR,Bahrain
+2025,5.86,BHR,Bahrain
+2026,5.81,BHR,Bahrain
+2027,10.0,BHR,Bahrain
+2028,25.28,BHR,Bahrain
+2029,25.59,BHR,Bahrain
+2030,25.91,BHR,Bahrain
+2031,26.22,BHR,Bahrain
+2032,26.54,BHR,Bahrain
+2033,26.86,BHR,Bahrain
+2034,27.19,BHR,Bahrain
+2035,27.51,BHR,Bahrain
+2036,27.84,BHR,Bahrain
+2037,28.17,BHR,Bahrain
+2038,28.51,BHR,Bahrain
+2039,28.84,BHR,Bahrain
+2040,29.17,BHR,Bahrain
+2024,5.71,BHS,"Bahamas, The"
+2025,5.71,BHS,"Bahamas, The"
+2026,5.71,BHS,"Bahamas, The"
+2027,5.71,BHS,"Bahamas, The"
+2028,5.71,BHS,"Bahamas, The"
+2029,62.14,BHS,"Bahamas, The"
+2030,62.55,BHS,"Bahamas, The"
+2031,62.95,BHS,"Bahamas, The"
+2032,63.34,BHS,"Bahamas, The"
+2033,63.74,BHS,"Bahamas, The"
+2034,64.12,BHS,"Bahamas, The"
+2035,64.5,BHS,"Bahamas, The"
+2036,64.88,BHS,"Bahamas, The"
+2037,65.26,BHS,"Bahamas, The"
+2038,65.63,BHS,"Bahamas, The"
+2039,65.99,BHS,"Bahamas, The"
+2040,66.35,BHS,"Bahamas, The"
+2024,66.46,BIH,Bosnia and Herzegovina
+2025,64.43,BIH,Bosnia and Herzegovina
+2026,61.03,BIH,Bosnia and Herzegovina
+2027,56.62,BIH,Bosnia and Herzegovina
+2028,56.87,BIH,Bosnia and Herzegovina
+2029,57.19,BIH,Bosnia and Herzegovina
+2030,57.52,BIH,Bosnia and Herzegovina
+2031,57.86,BIH,Bosnia and Herzegovina
+2032,58.21,BIH,Bosnia and Herzegovina
+2033,58.56,BIH,Bosnia and Herzegovina
+2034,58.92,BIH,Bosnia and Herzegovina
+2035,59.27,BIH,Bosnia and Herzegovina
+2036,59.63,BIH,Bosnia and Herzegovina
+2037,59.99,BIH,Bosnia and Herzegovina
+2038,60.36,BIH,Bosnia and Herzegovina
+2039,60.72,BIH,Bosnia and Herzegovina
+2040,61.09,BIH,Bosnia and Herzegovina
+2024,46.63,BLR,Belarus
+2025,49.12,BLR,Belarus
+2026,52.12,BLR,Belarus
+2027,56.07,BLR,Belarus
+2028,56.1,BLR,Belarus
+2029,56.41,BLR,Belarus
+2030,56.74,BLR,Belarus
+2031,57.08,BLR,Belarus
+2032,57.42,BLR,Belarus
+2033,57.77,BLR,Belarus
+2034,58.12,BLR,Belarus
+2035,58.47,BLR,Belarus
+2036,58.82,BLR,Belarus
+2037,59.18,BLR,Belarus
+2038,59.54,BLR,Belarus
+2039,59.9,BLR,Belarus
+2040,60.26,BLR,Belarus
+2024,5.71,BLZ,Belize
+2025,5.71,BLZ,Belize
+2026,5.71,BLZ,Belize
+2027,5.71,BLZ,Belize
+2028,5.71,BLZ,Belize
+2029,59.95,BLZ,Belize
+2030,60.34,BLZ,Belize
+2031,60.72,BLZ,Belize
+2032,61.1,BLZ,Belize
+2033,61.48,BLZ,Belize
+2034,61.85,BLZ,Belize
+2035,62.22,BLZ,Belize
+2036,62.58,BLZ,Belize
+2037,62.94,BLZ,Belize
+2038,63.3,BLZ,Belize
+2039,63.65,BLZ,Belize
+2040,63.99,BLZ,Belize
+2024,5.71,BMU,Bermuda
+2025,5.71,BMU,Bermuda
+2026,5.71,BMU,Bermuda
+2027,5.71,BMU,Bermuda
+2028,5.71,BMU,Bermuda
+2029,67.15,BMU,Bermuda
+2030,67.55,BMU,Bermuda
+2031,67.94,BMU,Bermuda
+2032,68.32,BMU,Bermuda
+2033,68.7,BMU,Bermuda
+2034,69.07,BMU,Bermuda
+2035,69.44,BMU,Bermuda
+2036,69.8,BMU,Bermuda
+2037,70.15,BMU,Bermuda
+2038,70.5,BMU,Bermuda
+2039,70.84,BMU,Bermuda
+2040,71.17,BMU,Bermuda
+2024,56.35,BOL,Bolivia
+2025,57.59,BOL,Bolivia
+2026,58.03,BOL,Bolivia
+2027,60.13,BOL,Bolivia
+2028,60.3,BOL,Bolivia
+2029,60.62,BOL,Bolivia
+2030,60.95,BOL,Bolivia
+2031,61.28,BOL,Bolivia
+2032,61.61,BOL,Bolivia
+2033,61.95,BOL,Bolivia
+2034,62.3,BOL,Bolivia
+2035,62.66,BOL,Bolivia
+2036,63.01,BOL,Bolivia
+2037,63.37,BOL,Bolivia
+2038,63.73,BOL,Bolivia
+2039,64.1,BOL,Bolivia
+2040,64.46,BOL,Bolivia
+2024,72.45,BRA,Brazil
+2025,69.69,BRA,Brazil
+2026,64.6,BRA,Brazil
+2027,57.89,BRA,Brazil
+2028,58.04,BRA,Brazil
+2029,58.38,BRA,Brazil
+2030,58.72,BRA,Brazil
+2031,59.06,BRA,Brazil
+2032,59.41,BRA,Brazil
+2033,59.78,BRA,Brazil
+2034,60.14,BRA,Brazil
+2035,60.51,BRA,Brazil
+2036,60.88,BRA,Brazil
+2037,61.25,BRA,Brazil
+2038,61.63,BRA,Brazil
+2039,62.0,BRA,Brazil
+2040,62.38,BRA,Brazil
+2024,5.71,BRB,Barbados
+2025,5.71,BRB,Barbados
+2026,5.71,BRB,Barbados
+2027,5.71,BRB,Barbados
+2028,5.71,BRB,Barbados
+2029,61.29,BRB,Barbados
+2030,61.69,BRB,Barbados
+2031,62.08,BRB,Barbados
+2032,62.47,BRB,Barbados
+2033,62.86,BRB,Barbados
+2034,63.24,BRB,Barbados
+2035,63.62,BRB,Barbados
+2036,63.99,BRB,Barbados
+2037,64.36,BRB,Barbados
+2038,64.73,BRB,Barbados
+2039,65.09,BRB,Barbados
+2040,65.45,BRB,Barbados
+2024,23.69,BRN,Brunei Darussalam
+2025,28.81,BRN,Brunei Darussalam
+2026,37.85,BRN,Brunei Darussalam
+2027,47.59,BRN,Brunei Darussalam
+2028,48.04,BRN,Brunei Darussalam
+2029,48.41,BRN,Brunei Darussalam
+2030,48.78,BRN,Brunei Darussalam
+2031,49.15,BRN,Brunei Darussalam
+2032,49.52,BRN,Brunei Darussalam
+2033,49.9,BRN,Brunei Darussalam
+2034,50.28,BRN,Brunei Darussalam
+2035,50.67,BRN,Brunei Darussalam
+2036,51.05,BRN,Brunei Darussalam
+2037,51.44,BRN,Brunei Darussalam
+2038,51.83,BRN,Brunei Darussalam
+2039,52.22,BRN,Brunei Darussalam
+2040,52.62,BRN,Brunei Darussalam
+2024,5.71,BTN,Bhutan
+2025,5.71,BTN,Bhutan
+2026,5.71,BTN,Bhutan
+2027,5.71,BTN,Bhutan
+2028,5.71,BTN,Bhutan
+2029,59.67,BTN,Bhutan
+2030,60.06,BTN,Bhutan
+2031,60.44,BTN,Bhutan
+2032,60.82,BTN,Bhutan
+2033,61.19,BTN,Bhutan
+2034,61.56,BTN,Bhutan
+2035,61.92,BTN,Bhutan
+2036,62.28,BTN,Bhutan
+2037,62.64,BTN,Bhutan
+2038,62.99,BTN,Bhutan
+2039,63.34,BTN,Bhutan
+2040,63.68,BTN,Bhutan
+2024,63.31,BWA,Botswana
+2025,62.67,BWA,Botswana
+2026,61.24,BWA,Botswana
+2027,59.35,BWA,Botswana
+2028,59.52,BWA,Botswana
+2029,59.86,BWA,Botswana
+2030,60.2,BWA,Botswana
+2031,60.54,BWA,Botswana
+2032,60.88,BWA,Botswana
+2033,61.24,BWA,Botswana
+2034,61.6,BWA,Botswana
+2035,61.97,BWA,Botswana
+2036,62.34,BWA,Botswana
+2037,62.71,BWA,Botswana
+2038,63.08,BWA,Botswana
+2039,63.45,BWA,Botswana
+2040,63.83,BWA,Botswana
+2024,5.71,CAF,Central African Republic
+2025,5.71,CAF,Central African Republic
+2026,5.71,CAF,Central African Republic
+2027,5.71,CAF,Central African Republic
+2028,5.71,CAF,Central African Republic
+2029,59.41,CAF,Central African Republic
+2030,59.79,CAF,Central African Republic
+2031,60.17,CAF,Central African Republic
+2032,60.55,CAF,Central African Republic
+2033,60.92,CAF,Central African Republic
+2034,61.28,CAF,Central African Republic
+2035,61.64,CAF,Central African Republic
+2036,62.0,CAF,Central African Republic
+2037,62.36,CAF,Central African Republic
+2038,62.71,CAF,Central African Republic
+2039,63.05,CAF,Central African Republic
+2040,63.39,CAF,Central African Republic
+2024,45.39,CAN,Canada
+2025,45.65,CAN,Canada
+2026,44.91,CAN,Canada
+2027,43.87,CAN,Canada
+2028,44.5,CAN,Canada
+2029,44.97,CAN,Canada
+2030,45.42,CAN,Canada
+2031,45.83,CAN,Canada
+2032,46.18,CAN,Canada
+2033,46.53,CAN,Canada
+2034,46.87,CAN,Canada
+2035,47.21,CAN,Canada
+2036,47.55,CAN,Canada
+2037,47.88,CAN,Canada
+2038,48.2,CAN,Canada
+2039,48.52,CAN,Canada
+2040,48.84,CAN,Canada
+2024,55.43,CEB,Central Europe and the Baltics
+2025,55.91,CEB,Central Europe and the Baltics
+2026,56.18,CEB,Central Europe and the Baltics
+2027,56.52,CEB,Central Europe and the Baltics
+2028,56.91,CEB,Central Europe and the Baltics
+2029,57.27,CEB,Central Europe and the Baltics
+2030,57.64,CEB,Central Europe and the Baltics
+2031,58.01,CEB,Central Europe and the Baltics
+2032,58.37,CEB,Central Europe and the Baltics
+2033,58.76,CEB,Central Europe and the Baltics
+2034,59.14,CEB,Central Europe and the Baltics
+2035,59.53,CEB,Central Europe and the Baltics
+2036,59.92,CEB,Central Europe and the Baltics
+2037,60.32,CEB,Central Europe and the Baltics
+2038,60.71,CEB,Central Europe and the Baltics
+2039,61.11,CEB,Central Europe and the Baltics
+2040,61.5,CEB,Central Europe and the Baltics
+2024,61.15,CHE,Switzerland
+2025,60.99,CHE,Switzerland
+2026,59.93,CHE,Switzerland
+2027,58.0,CHE,Switzerland
+2028,58.53,CHE,Switzerland
+2029,58.98,CHE,Switzerland
+2030,59.43,CHE,Switzerland
+2031,59.87,CHE,Switzerland
+2032,60.32,CHE,Switzerland
+2033,60.76,CHE,Switzerland
+2034,61.21,CHE,Switzerland
+2035,61.65,CHE,Switzerland
+2036,62.1,CHE,Switzerland
+2037,62.54,CHE,Switzerland
+2038,62.98,CHE,Switzerland
+2039,63.42,CHE,Switzerland
+2040,63.86,CHE,Switzerland
+2024,5.71,CHI,Channel Islands
+2025,5.71,CHI,Channel Islands
+2026,5.71,CHI,Channel Islands
+2027,5.71,CHI,Channel Islands
+2028,5.71,CHI,Channel Islands
+2029,64.32,CHI,Channel Islands
+2030,64.73,CHI,Channel Islands
+2031,65.13,CHI,Channel Islands
+2032,65.53,CHI,Channel Islands
+2033,65.93,CHI,Channel Islands
+2034,66.32,CHI,Channel Islands
+2035,66.71,CHI,Channel Islands
+2036,67.09,CHI,Channel Islands
+2037,67.46,CHI,Channel Islands
+2038,67.83,CHI,Channel Islands
+2039,68.2,CHI,Channel Islands
+2040,68.56,CHI,Channel Islands
+2024,59.71,CHL,Chile
+2025,58.96,CHL,Chile
+2026,57.39,CHL,Chile
+2027,56.28,CHL,Chile
+2028,56.56,CHL,Chile
+2029,56.9,CHL,Chile
+2030,57.25,CHL,Chile
+2031,57.59,CHL,Chile
+2032,57.95,CHL,Chile
+2033,58.32,CHL,Chile
+2034,58.69,CHL,Chile
+2035,59.06,CHL,Chile
+2036,59.43,CHL,Chile
+2037,59.81,CHL,Chile
+2038,60.19,CHL,Chile
+2039,60.57,CHL,Chile
+2040,60.95,CHL,Chile
+2024,49.93,CHN,China
+2025,50.83,CHN,China
+2026,51.92,CHN,China
+2027,53.52,CHN,China
+2028,53.58,CHN,China
+2029,53.98,CHN,China
+2030,54.39,CHN,China
+2031,54.79,CHN,China
+2032,55.2,CHN,China
+2033,55.61,CHN,China
+2034,56.02,CHN,China
+2035,56.43,CHN,China
+2036,56.84,CHN,China
+2037,57.26,CHN,China
+2038,57.67,CHN,China
+2039,58.09,CHN,China
+2040,58.5,CHN,China
+2024,78.32,CIV,Cote d'Ivoire
+2025,74.89,CIV,Cote d'Ivoire
+2026,69.12,CIV,Cote d'Ivoire
+2027,60.66,CIV,Cote d'Ivoire
+2028,60.84,CIV,Cote d'Ivoire
+2029,61.16,CIV,Cote d'Ivoire
+2030,61.5,CIV,Cote d'Ivoire
+2031,61.83,CIV,Cote d'Ivoire
+2032,62.17,CIV,Cote d'Ivoire
+2033,62.51,CIV,Cote d'Ivoire
+2034,62.87,CIV,Cote d'Ivoire
+2035,63.23,CIV,Cote d'Ivoire
+2036,63.59,CIV,Cote d'Ivoire
+2037,63.95,CIV,Cote d'Ivoire
+2038,64.31,CIV,Cote d'Ivoire
+2039,64.68,CIV,Cote d'Ivoire
+2040,65.05,CIV,Cote d'Ivoire
+2024,83.45,CMR,Cameroon
+2025,79.58,CMR,Cameroon
+2026,72.95,CMR,Cameroon
+2027,60.76,CMR,Cameroon
+2028,60.94,CMR,Cameroon
+2029,61.27,CMR,Cameroon
+2030,61.6,CMR,Cameroon
+2031,61.93,CMR,Cameroon
+2032,62.26,CMR,Cameroon
+2033,62.61,CMR,Cameroon
+2034,62.97,CMR,Cameroon
+2035,63.33,CMR,Cameroon
+2036,63.68,CMR,Cameroon
+2037,64.05,CMR,Cameroon
+2038,64.41,CMR,Cameroon
+2039,64.78,CMR,Cameroon
+2040,65.14,CMR,Cameroon
+2024,87.51,COD,"Congo, Dem. Rep."
+2025,83.27,COD,"Congo, Dem. Rep."
+2026,75.76,COD,"Congo, Dem. Rep."
+2027,60.84,COD,"Congo, Dem. Rep."
+2028,61.02,COD,"Congo, Dem. Rep."
+2029,61.34,COD,"Congo, Dem. Rep."
+2030,61.67,COD,"Congo, Dem. Rep."
+2031,61.99,COD,"Congo, Dem. Rep."
+2032,62.33,COD,"Congo, Dem. Rep."
+2033,62.66,COD,"Congo, Dem. Rep."
+2034,63.01,COD,"Congo, Dem. Rep."
+2035,63.37,COD,"Congo, Dem. Rep."
+2036,63.72,COD,"Congo, Dem. Rep."
+2037,64.08,COD,"Congo, Dem. Rep."
+2038,64.44,COD,"Congo, Dem. Rep."
+2039,64.8,COD,"Congo, Dem. Rep."
+2040,65.16,COD,"Congo, Dem. Rep."
+2024,81.26,COG,"Congo, Rep."
+2025,77.77,COG,"Congo, Rep."
+2026,71.58,COG,"Congo, Rep."
+2027,60.71,COG,"Congo, Rep."
+2028,60.87,COG,"Congo, Rep."
+2029,61.19,COG,"Congo, Rep."
+2030,61.52,COG,"Congo, Rep."
+2031,61.85,COG,"Congo, Rep."
+2032,62.18,COG,"Congo, Rep."
+2033,62.52,COG,"Congo, Rep."
+2034,62.87,COG,"Congo, Rep."
+2035,63.23,COG,"Congo, Rep."
+2036,63.59,COG,"Congo, Rep."
+2037,63.95,COG,"Congo, Rep."
+2038,64.31,COG,"Congo, Rep."
+2039,64.67,COG,"Congo, Rep."
+2040,65.03,COG,"Congo, Rep."
+2024,65.58,COL,Colombia
+2025,64.09,COL,Colombia
+2026,61.78,COL,Colombia
+2027,59.37,COL,Colombia
+2028,59.56,COL,Colombia
+2029,59.9,COL,Colombia
+2030,60.24,COL,Colombia
+2031,60.59,COL,Colombia
+2032,60.95,COL,Colombia
+2033,61.31,COL,Colombia
+2034,61.68,COL,Colombia
+2035,62.05,COL,Colombia
+2036,62.42,COL,Colombia
+2037,62.79,COL,Colombia
+2038,63.17,COL,Colombia
+2039,63.55,COL,Colombia
+2040,63.92,COL,Colombia
+2024,5.71,COM,Comoros
+2025,5.71,COM,Comoros
+2026,5.71,COM,Comoros
+2027,5.71,COM,Comoros
+2028,5.71,COM,Comoros
+2029,59.49,COM,Comoros
+2030,59.87,COM,Comoros
+2031,60.26,COM,Comoros
+2032,60.63,COM,Comoros
+2033,61.0,COM,Comoros
+2034,61.37,COM,Comoros
+2035,61.73,COM,Comoros
+2036,62.09,COM,Comoros
+2037,62.45,COM,Comoros
+2038,62.8,COM,Comoros
+2039,63.14,COM,Comoros
+2040,63.48,COM,Comoros
+2024,5.71,CPV,Cabo Verde
+2025,5.71,CPV,Cabo Verde
+2026,5.71,CPV,Cabo Verde
+2027,5.71,CPV,Cabo Verde
+2028,5.71,CPV,Cabo Verde
+2029,59.74,CPV,Cabo Verde
+2030,60.13,CPV,Cabo Verde
+2031,60.52,CPV,Cabo Verde
+2032,60.89,CPV,Cabo Verde
+2033,61.27,CPV,Cabo Verde
+2034,61.64,CPV,Cabo Verde
+2035,62.0,CPV,Cabo Verde
+2036,62.37,CPV,Cabo Verde
+2037,62.72,CPV,Cabo Verde
+2038,63.08,CPV,Cabo Verde
+2039,63.42,CPV,Cabo Verde
+2040,63.77,CPV,Cabo Verde
+2024,67.07,CRI,Costa Rica
+2025,65.67,CRI,Costa Rica
+2026,62.67,CRI,Costa Rica
+2027,59.13,CRI,Costa Rica
+2028,59.38,CRI,Costa Rica
+2029,59.73,CRI,Costa Rica
+2030,60.09,CRI,Costa Rica
+2031,60.45,CRI,Costa Rica
+2032,60.81,CRI,Costa Rica
+2033,61.18,CRI,Costa Rica
+2034,61.56,CRI,Costa Rica
+2035,61.95,CRI,Costa Rica
+2036,62.33,CRI,Costa Rica
+2037,62.72,CRI,Costa Rica
+2038,63.11,CRI,Costa Rica
+2039,63.5,CRI,Costa Rica
+2040,63.89,CRI,Costa Rica
+2024,5.71,CSS,Caribbean small states
+2025,5.71,CSS,Caribbean small states
+2026,5.71,CSS,Caribbean small states
+2027,5.71,CSS,Caribbean small states
+2028,5.71,CSS,Caribbean small states
+2029,60.71,CSS,Caribbean small states
+2030,61.11,CSS,Caribbean small states
+2031,61.5,CSS,Caribbean small states
+2032,61.89,CSS,Caribbean small states
+2033,62.27,CSS,Caribbean small states
+2034,62.65,CSS,Caribbean small states
+2035,63.03,CSS,Caribbean small states
+2036,63.4,CSS,Caribbean small states
+2037,63.76,CSS,Caribbean small states
+2038,64.12,CSS,Caribbean small states
+2039,64.48,CSS,Caribbean small states
+2040,64.83,CSS,Caribbean small states
+2024,5.71,CUB,Cuba
+2025,5.71,CUB,Cuba
+2026,5.71,CUB,Cuba
+2027,5.71,CUB,Cuba
+2028,5.71,CUB,Cuba
+2029,61.02,CUB,Cuba
+2030,61.41,CUB,Cuba
+2031,61.8,CUB,Cuba
+2032,62.18,CUB,Cuba
+2033,62.56,CUB,Cuba
+2034,62.93,CUB,Cuba
+2035,63.3,CUB,Cuba
+2036,63.67,CUB,Cuba
+2037,64.03,CUB,Cuba
+2038,64.38,CUB,Cuba
+2039,64.74,CUB,Cuba
+2040,65.08,CUB,Cuba
+2024,40.0,CUW,Curacao
+2025,44.21,CUW,Curacao
+2026,49.37,CUW,Curacao
+2027,55.36,CUW,Curacao
+2028,55.48,CUW,Curacao
+2029,55.83,CUW,Curacao
+2030,56.19,CUW,Curacao
+2031,56.57,CUW,Curacao
+2032,56.95,CUW,Curacao
+2033,57.33,CUW,Curacao
+2034,57.71,CUW,Curacao
+2035,58.1,CUW,Curacao
+2036,58.48,CUW,Curacao
+2037,58.87,CUW,Curacao
+2038,59.26,CUW,Curacao
+2039,59.66,CUW,Curacao
+2040,60.05,CUW,Curacao
+2024,5.71,CYM,Cayman Islands
+2025,5.71,CYM,Cayman Islands
+2026,5.71,CYM,Cayman Islands
+2027,5.71,CYM,Cayman Islands
+2028,5.71,CYM,Cayman Islands
+2029,65.62,CYM,Cayman Islands
+2030,66.02,CYM,Cayman Islands
+2031,66.43,CYM,Cayman Islands
+2032,66.82,CYM,Cayman Islands
+2033,67.22,CYM,Cayman Islands
+2034,67.61,CYM,Cayman Islands
+2035,67.99,CYM,Cayman Islands
+2036,68.36,CYM,Cayman Islands
+2037,68.74,CYM,Cayman Islands
+2038,69.1,CYM,Cayman Islands
+2039,69.46,CYM,Cayman Islands
+2040,69.82,CYM,Cayman Islands
+2024,53.11,CYP,Cyprus
+2025,55.26,CYP,Cyprus
+2026,56.66,CYP,Cyprus
+2027,58.22,CYP,Cyprus
+2028,58.58,CYP,Cyprus
+2029,58.96,CYP,Cyprus
+2030,59.35,CYP,Cyprus
+2031,59.73,CYP,Cyprus
+2032,60.13,CYP,Cyprus
+2033,60.52,CYP,Cyprus
+2034,60.92,CYP,Cyprus
+2035,61.31,CYP,Cyprus
+2036,61.71,CYP,Cyprus
+2037,62.11,CYP,Cyprus
+2038,62.52,CYP,Cyprus
+2039,62.93,CYP,Cyprus
+2040,63.35,CYP,Cyprus
+2024,50.77,CZE,Czechia
+2025,52.06,CZE,Czechia
+2026,53.15,CZE,Czechia
+2027,54.72,CZE,Czechia
+2028,55.29,CZE,Czechia
+2029,55.67,CZE,Czechia
+2030,56.06,CZE,Czechia
+2031,56.45,CZE,Czechia
+2032,56.86,CZE,Czechia
+2033,57.26,CZE,Czechia
+2034,57.67,CZE,Czechia
+2035,58.08,CZE,Czechia
+2036,58.49,CZE,Czechia
+2037,58.9,CZE,Czechia
+2038,59.31,CZE,Czechia
+2039,59.73,CZE,Czechia
+2040,60.14,CZE,Czechia
+2024,53.51,DEU,Germany
+2025,54.62,DEU,Germany
+2026,55.32,DEU,Germany
+2027,56.68,DEU,Germany
+2028,57.37,DEU,Germany
+2029,57.82,DEU,Germany
+2030,58.28,DEU,Germany
+2031,58.74,DEU,Germany
+2032,59.21,DEU,Germany
+2033,59.68,DEU,Germany
+2034,60.14,DEU,Germany
+2035,60.61,DEU,Germany
+2036,61.07,DEU,Germany
+2037,61.52,DEU,Germany
+2038,61.93,DEU,Germany
+2039,62.3,DEU,Germany
+2040,62.66,DEU,Germany
+2024,5.71,DJI,Djibouti
+2025,5.71,DJI,Djibouti
+2026,5.71,DJI,Djibouti
+2027,5.71,DJI,Djibouti
+2028,5.71,DJI,Djibouti
+2029,59.63,DJI,Djibouti
+2030,60.02,DJI,Djibouti
+2031,60.4,DJI,Djibouti
+2032,60.78,DJI,Djibouti
+2033,61.15,DJI,Djibouti
+2034,61.52,DJI,Djibouti
+2035,61.89,DJI,Djibouti
+2036,62.25,DJI,Djibouti
+2037,62.6,DJI,Djibouti
+2038,62.95,DJI,Djibouti
+2039,63.3,DJI,Djibouti
+2040,63.65,DJI,Djibouti
+2024,5.71,DMA,Dominica
+2025,5.71,DMA,Dominica
+2026,5.71,DMA,Dominica
+2027,5.71,DMA,Dominica
+2028,5.71,DMA,Dominica
+2029,60.14,DMA,Dominica
+2030,60.53,DMA,Dominica
+2031,60.92,DMA,Dominica
+2032,61.3,DMA,Dominica
+2033,61.68,DMA,Dominica
+2034,62.05,DMA,Dominica
+2035,62.42,DMA,Dominica
+2036,62.79,DMA,Dominica
+2037,63.15,DMA,Dominica
+2038,63.5,DMA,Dominica
+2039,63.86,DMA,Dominica
+2040,64.21,DMA,Dominica
+2024,68.46,DNK,Denmark
+2025,66.71,DNK,Denmark
+2026,63.1,DNK,Denmark
+2027,57.82,DNK,Denmark
+2028,58.14,DNK,Denmark
+2029,58.57,DNK,Denmark
+2030,59.01,DNK,Denmark
+2031,59.46,DNK,Denmark
+2032,59.9,DNK,Denmark
+2033,60.34,DNK,Denmark
+2034,60.78,DNK,Denmark
+2035,61.23,DNK,Denmark
+2036,61.67,DNK,Denmark
+2037,62.11,DNK,Denmark
+2038,62.55,DNK,Denmark
+2039,62.99,DNK,Denmark
+2040,63.44,DNK,Denmark
+2024,55.49,DOM,Dominican Republic
+2025,56.58,DOM,Dominican Republic
+2026,57.49,DOM,Dominican Republic
+2027,59.19,DOM,Dominican Republic
+2028,59.43,DOM,Dominican Republic
+2029,59.77,DOM,Dominican Republic
+2030,60.11,DOM,Dominican Republic
+2031,60.45,DOM,Dominican Republic
+2032,60.79,DOM,Dominican Republic
+2033,61.14,DOM,Dominican Republic
+2034,61.51,DOM,Dominican Republic
+2035,61.88,DOM,Dominican Republic
+2036,62.25,DOM,Dominican Republic
+2037,62.62,DOM,Dominican Republic
+2038,62.99,DOM,Dominican Republic
+2039,63.37,DOM,Dominican Republic
+2040,63.74,DOM,Dominican Republic
+2024,42.91,DZA,Algeria
+2025,47.07,DZA,Algeria
+2026,52.49,DZA,Algeria
+2027,58.78,DZA,Algeria
+2028,59.12,DZA,Algeria
+2029,59.45,DZA,Algeria
+2030,59.78,DZA,Algeria
+2031,60.12,DZA,Algeria
+2032,60.47,DZA,Algeria
+2033,60.82,DZA,Algeria
+2034,61.18,DZA,Algeria
+2035,61.54,DZA,Algeria
+2036,61.91,DZA,Algeria
+2037,62.27,DZA,Algeria
+2038,62.64,DZA,Algeria
+2039,63.01,DZA,Algeria
+2040,63.38,DZA,Algeria
+2024,54.02,EAP,East Asia & Pacific (excluding high income)
+2025,54.9,EAP,East Asia & Pacific (excluding high income)
+2026,55.86,EAP,East Asia & Pacific (excluding high income)
+2027,55.78,EAP,East Asia & Pacific (excluding high income)
+2028,55.84,EAP,East Asia & Pacific (excluding high income)
+2029,56.18,EAP,East Asia & Pacific (excluding high income)
+2030,56.52,EAP,East Asia & Pacific (excluding high income)
+2031,56.86,EAP,East Asia & Pacific (excluding high income)
+2032,57.21,EAP,East Asia & Pacific (excluding high income)
+2033,57.56,EAP,East Asia & Pacific (excluding high income)
+2034,57.91,EAP,East Asia & Pacific (excluding high income)
+2035,58.27,EAP,East Asia & Pacific (excluding high income)
+2036,58.64,EAP,East Asia & Pacific (excluding high income)
+2037,59.02,EAP,East Asia & Pacific (excluding high income)
+2038,59.39,EAP,East Asia & Pacific (excluding high income)
+2039,59.77,EAP,East Asia & Pacific (excluding high income)
+2040,60.15,EAP,East Asia & Pacific (excluding high income)
+2024,61.63,EAR,Early-demographic dividend
+2025,61.13,EAR,Early-demographic dividend
+2026,59.93,EAR,Early-demographic dividend
+2027,60.01,EAR,Early-demographic dividend
+2028,60.18,EAR,Early-demographic dividend
+2029,60.51,EAR,Early-demographic dividend
+2030,60.85,EAR,Early-demographic dividend
+2031,61.19,EAR,Early-demographic dividend
+2032,61.53,EAR,Early-demographic dividend
+2033,61.87,EAR,Early-demographic dividend
+2034,62.22,EAR,Early-demographic dividend
+2035,62.57,EAR,Early-demographic dividend
+2036,62.93,EAR,Early-demographic dividend
+2037,63.28,EAR,Early-demographic dividend
+2038,63.64,EAR,Early-demographic dividend
+2039,64.0,EAR,Early-demographic dividend
+2040,64.36,EAR,Early-demographic dividend
+2024,52.81,EAS,East Asia & Pacific
+2025,54.14,EAS,East Asia & Pacific
+2026,55.61,EAS,East Asia & Pacific
+2027,55.56,EAS,East Asia & Pacific
+2028,55.63,EAS,East Asia & Pacific
+2029,55.96,EAS,East Asia & Pacific
+2030,56.3,EAS,East Asia & Pacific
+2031,56.64,EAS,East Asia & Pacific
+2032,56.99,EAS,East Asia & Pacific
+2033,57.34,EAS,East Asia & Pacific
+2034,57.69,EAS,East Asia & Pacific
+2035,58.04,EAS,East Asia & Pacific
+2036,58.4,EAS,East Asia & Pacific
+2037,58.76,EAS,East Asia & Pacific
+2038,59.13,EAS,East Asia & Pacific
+2039,59.51,EAS,East Asia & Pacific
+2040,59.89,EAS,East Asia & Pacific
+2024,51.34,ECA,Europe & Central Asia (excluding high income)
+2025,53.94,ECA,Europe & Central Asia (excluding high income)
+2026,57.13,ECA,Europe & Central Asia (excluding high income)
+2027,57.39,ECA,Europe & Central Asia (excluding high income)
+2028,57.61,ECA,Europe & Central Asia (excluding high income)
+2029,57.94,ECA,Europe & Central Asia (excluding high income)
+2030,58.28,ECA,Europe & Central Asia (excluding high income)
+2031,58.62,ECA,Europe & Central Asia (excluding high income)
+2032,58.97,ECA,Europe & Central Asia (excluding high income)
+2033,59.33,ECA,Europe & Central Asia (excluding high income)
+2034,59.69,ECA,Europe & Central Asia (excluding high income)
+2035,60.05,ECA,Europe & Central Asia (excluding high income)
+2036,60.42,ECA,Europe & Central Asia (excluding high income)
+2037,60.79,ECA,Europe & Central Asia (excluding high income)
+2038,61.16,ECA,Europe & Central Asia (excluding high income)
+2039,61.53,ECA,Europe & Central Asia (excluding high income)
+2040,61.9,ECA,Europe & Central Asia (excluding high income)
+2024,52.2,ECS,Europe & Central Asia
+2025,54.03,ECS,Europe & Central Asia
+2026,55.79,ECS,Europe & Central Asia
+2027,56.08,ECS,Europe & Central Asia
+2028,56.41,ECS,Europe & Central Asia
+2029,56.8,ECS,Europe & Central Asia
+2030,57.18,ECS,Europe & Central Asia
+2031,57.57,ECS,Europe & Central Asia
+2032,57.96,ECS,Europe & Central Asia
+2033,58.35,ECS,Europe & Central Asia
+2034,58.75,ECS,Europe & Central Asia
+2035,59.15,ECS,Europe & Central Asia
+2036,59.56,ECS,Europe & Central Asia
+2037,59.97,ECS,Europe & Central Asia
+2038,60.38,ECS,Europe & Central Asia
+2039,60.79,ECS,Europe & Central Asia
+2040,61.21,ECS,Europe & Central Asia
+2024,58.36,ECU,Ecuador
+2025,58.94,ECU,Ecuador
+2026,58.82,ECU,Ecuador
+2027,59.24,ECU,Ecuador
+2028,59.39,ECU,Ecuador
+2029,59.73,ECU,Ecuador
+2030,60.07,ECU,Ecuador
+2031,60.41,ECU,Ecuador
+2032,60.76,ECU,Ecuador
+2033,61.13,ECU,Ecuador
+2034,61.49,ECU,Ecuador
+2035,61.86,ECU,Ecuador
+2036,62.23,ECU,Ecuador
+2037,62.6,ECU,Ecuador
+2038,62.97,ECU,Ecuador
+2039,63.34,ECU,Ecuador
+2040,63.72,ECU,Ecuador
+2024,37.94,EGY,"Egypt, Arab Rep."
+2025,37.06,EGY,"Egypt, Arab Rep."
+2026,39.03,EGY,"Egypt, Arab Rep."
+2027,47.85,EGY,"Egypt, Arab Rep."
+2028,59.46,EGY,"Egypt, Arab Rep."
+2029,59.78,EGY,"Egypt, Arab Rep."
+2030,60.11,EGY,"Egypt, Arab Rep."
+2031,60.44,EGY,"Egypt, Arab Rep."
+2032,60.78,EGY,"Egypt, Arab Rep."
+2033,61.13,EGY,"Egypt, Arab Rep."
+2034,61.48,EGY,"Egypt, Arab Rep."
+2035,61.84,EGY,"Egypt, Arab Rep."
+2036,62.19,EGY,"Egypt, Arab Rep."
+2037,62.55,EGY,"Egypt, Arab Rep."
+2038,62.92,EGY,"Egypt, Arab Rep."
+2039,63.28,EGY,"Egypt, Arab Rep."
+2040,63.65,EGY,"Egypt, Arab Rep."
+2024,54.48,EMU,Euro area
+2025,55.4,EMU,Euro area
+2026,55.75,EMU,Euro area
+2027,56.13,EMU,Euro area
+2028,56.57,EMU,Euro area
+2029,56.98,EMU,Euro area
+2030,57.38,EMU,Euro area
+2031,57.79,EMU,Euro area
+2032,58.2,EMU,Euro area
+2033,58.61,EMU,Euro area
+2034,59.03,EMU,Euro area
+2035,59.44,EMU,Euro area
+2036,59.86,EMU,Euro area
+2037,60.28,EMU,Euro area
+2038,60.7,EMU,Euro area
+2039,61.12,EMU,Euro area
+2040,61.55,EMU,Euro area
+2024,5.71,ERI,Eritrea
+2025,5.71,ERI,Eritrea
+2026,5.71,ERI,Eritrea
+2027,5.71,ERI,Eritrea
+2028,5.71,ERI,Eritrea
+2029,62.74,ERI,Eritrea
+2030,63.13,ERI,Eritrea
+2031,63.52,ERI,Eritrea
+2032,63.9,ERI,Eritrea
+2033,64.28,ERI,Eritrea
+2034,64.66,ERI,Eritrea
+2035,65.03,ERI,Eritrea
+2036,65.4,ERI,Eritrea
+2037,65.76,ERI,Eritrea
+2038,66.12,ERI,Eritrea
+2039,66.48,ERI,Eritrea
+2040,66.83,ERI,Eritrea
+2024,54.05,ESP,Spain
+2025,55.26,ESP,Spain
+2026,55.63,ESP,Spain
+2027,56.26,ESP,Spain
+2028,56.64,ESP,Spain
+2029,57.01,ESP,Spain
+2030,57.39,ESP,Spain
+2031,57.77,ESP,Spain
+2032,58.15,ESP,Spain
+2033,58.54,ESP,Spain
+2034,58.93,ESP,Spain
+2035,59.32,ESP,Spain
+2036,59.72,ESP,Spain
+2037,60.13,ESP,Spain
+2038,60.53,ESP,Spain
+2039,60.94,ESP,Spain
+2040,61.35,ESP,Spain
+2024,63.82,EST,Estonia
+2025,63.49,EST,Estonia
+2026,59.71,EST,Estonia
+2027,54.82,EST,Estonia
+2028,55.52,EST,Estonia
+2029,55.89,EST,Estonia
+2030,56.27,EST,Estonia
+2031,56.65,EST,Estonia
+2032,57.03,EST,Estonia
+2033,57.42,EST,Estonia
+2034,57.82,EST,Estonia
+2035,58.22,EST,Estonia
+2036,58.62,EST,Estonia
+2037,59.02,EST,Estonia
+2038,59.43,EST,Estonia
+2039,59.83,EST,Estonia
+2040,60.24,EST,Estonia
+2024,86.15,ETH,Ethiopia
+2025,82.17,ETH,Ethiopia
+2026,74.91,ETH,Ethiopia
+2027,60.87,ETH,Ethiopia
+2028,61.06,ETH,Ethiopia
+2029,61.38,ETH,Ethiopia
+2030,61.71,ETH,Ethiopia
+2031,62.04,ETH,Ethiopia
+2032,62.37,ETH,Ethiopia
+2033,62.71,ETH,Ethiopia
+2034,63.06,ETH,Ethiopia
+2035,63.42,ETH,Ethiopia
+2036,63.78,ETH,Ethiopia
+2037,64.14,ETH,Ethiopia
+2038,64.5,ETH,Ethiopia
+2039,64.86,ETH,Ethiopia
+2040,65.23,ETH,Ethiopia
+2024,55.23,EUU,European Union
+2025,55.79,EUU,European Union
+2026,55.7,EUU,European Union
+2027,56.08,EUU,European Union
+2028,56.54,EUU,European Union
+2029,56.94,EUU,European Union
+2030,57.35,EUU,European Union
+2031,57.75,EUU,European Union
+2032,58.16,EUU,European Union
+2033,58.57,EUU,European Union
+2034,58.98,EUU,European Union
+2035,59.4,EUU,European Union
+2036,59.81,EUU,European Union
+2037,60.24,EUU,European Union
+2038,60.66,EUU,European Union
+2039,61.09,EUU,European Union
+2040,61.52,EUU,European Union
+2024,74.57,FCS,Fragile and conflict affected situations
+2025,69.6,FCS,Fragile and conflict affected situations
+2026,60.47,FCS,Fragile and conflict affected situations
+2027,60.59,FCS,Fragile and conflict affected situations
+2028,60.79,FCS,Fragile and conflict affected situations
+2029,61.11,FCS,Fragile and conflict affected situations
+2030,61.44,FCS,Fragile and conflict affected situations
+2031,61.77,FCS,Fragile and conflict affected situations
+2032,62.11,FCS,Fragile and conflict affected situations
+2033,62.44,FCS,Fragile and conflict affected situations
+2034,62.78,FCS,Fragile and conflict affected situations
+2035,63.13,FCS,Fragile and conflict affected situations
+2036,63.48,FCS,Fragile and conflict affected situations
+2037,63.84,FCS,Fragile and conflict affected situations
+2038,64.21,FCS,Fragile and conflict affected situations
+2039,64.57,FCS,Fragile and conflict affected situations
+2040,64.94,FCS,Fragile and conflict affected situations
+2024,64.14,FIN,Finland
+2025,60.82,FIN,Finland
+2026,54.17,FIN,Finland
+2027,43.04,FIN,Finland
+2028,43.64,FIN,Finland
+2029,44.08,FIN,Finland
+2030,44.52,FIN,Finland
+2031,44.96,FIN,Finland
+2032,45.4,FIN,Finland
+2033,45.85,FIN,Finland
+2034,46.29,FIN,Finland
+2035,46.74,FIN,Finland
+2036,47.19,FIN,Finland
+2037,47.63,FIN,Finland
+2038,48.05,FIN,Finland
+2039,48.44,FIN,Finland
+2040,48.78,FIN,Finland
+2024,5.71,FJI,Fiji
+2025,5.71,FJI,Fiji
+2026,5.71,FJI,Fiji
+2027,5.71,FJI,Fiji
+2028,5.71,FJI,Fiji
+2029,59.83,FJI,Fiji
+2030,60.22,FJI,Fiji
+2031,60.61,FJI,Fiji
+2032,60.99,FJI,Fiji
+2033,61.36,FJI,Fiji
+2034,61.73,FJI,Fiji
+2035,62.1,FJI,Fiji
+2036,62.46,FJI,Fiji
+2037,62.82,FJI,Fiji
+2038,63.17,FJI,Fiji
+2039,63.52,FJI,Fiji
+2040,63.87,FJI,Fiji
+2024,50.89,FRA,France
+2025,52.35,FRA,France
+2026,53.46,FRA,France
+2027,55.3,FRA,France
+2028,55.86,FRA,France
+2029,56.31,FRA,France
+2030,56.76,FRA,France
+2031,57.21,FRA,France
+2032,57.66,FRA,France
+2033,58.11,FRA,France
+2034,58.57,FRA,France
+2035,59.02,FRA,France
+2036,59.48,FRA,France
+2037,59.93,FRA,France
+2038,60.38,FRA,France
+2039,60.81,FRA,France
+2040,61.21,FRA,France
+2024,5.71,FRO,Faroe Islands
+2025,5.71,FRO,Faroe Islands
+2026,5.71,FRO,Faroe Islands
+2027,5.71,FRO,Faroe Islands
+2028,5.71,FRO,Faroe Islands
+2029,64.2,FRO,Faroe Islands
+2030,64.61,FRO,Faroe Islands
+2031,65.01,FRO,Faroe Islands
+2032,65.41,FRO,Faroe Islands
+2033,65.81,FRO,Faroe Islands
+2034,66.2,FRO,Faroe Islands
+2035,66.59,FRO,Faroe Islands
+2036,66.97,FRO,Faroe Islands
+2037,67.34,FRO,Faroe Islands
+2038,67.71,FRO,Faroe Islands
+2039,68.08,FRO,Faroe Islands
+2040,68.44,FRO,Faroe Islands
+2024,5.71,FSM,"Micronesia, Fed. Sts."
+2025,5.71,FSM,"Micronesia, Fed. Sts."
+2026,5.71,FSM,"Micronesia, Fed. Sts."
+2027,5.71,FSM,"Micronesia, Fed. Sts."
+2028,5.71,FSM,"Micronesia, Fed. Sts."
+2029,59.68,FSM,"Micronesia, Fed. Sts."
+2030,60.06,FSM,"Micronesia, Fed. Sts."
+2031,60.45,FSM,"Micronesia, Fed. Sts."
+2032,60.82,FSM,"Micronesia, Fed. Sts."
+2033,61.2,FSM,"Micronesia, Fed. Sts."
+2034,61.57,FSM,"Micronesia, Fed. Sts."
+2035,61.93,FSM,"Micronesia, Fed. Sts."
+2036,62.29,FSM,"Micronesia, Fed. Sts."
+2037,62.65,FSM,"Micronesia, Fed. Sts."
+2038,63.0,FSM,"Micronesia, Fed. Sts."
+2039,63.35,FSM,"Micronesia, Fed. Sts."
+2040,63.69,FSM,"Micronesia, Fed. Sts."
+2024,86.26,GAB,Gabon
+2025,82.13,GAB,Gabon
+2026,74.68,GAB,Gabon
+2027,60.15,GAB,Gabon
+2028,60.33,GAB,Gabon
+2029,60.66,GAB,Gabon
+2030,61.0,GAB,Gabon
+2031,61.34,GAB,Gabon
+2032,61.68,GAB,Gabon
+2033,62.03,GAB,Gabon
+2034,62.39,GAB,Gabon
+2035,62.75,GAB,Gabon
+2036,63.12,GAB,Gabon
+2037,63.49,GAB,Gabon
+2038,63.86,GAB,Gabon
+2039,64.23,GAB,Gabon
+2040,64.6,GAB,Gabon
+2024,51.64,GBR,United Kingdom
+2025,53.98,GBR,United Kingdom
+2026,55.95,GBR,United Kingdom
+2027,58.88,GBR,United Kingdom
+2028,59.29,GBR,United Kingdom
+2029,59.74,GBR,United Kingdom
+2030,60.2,GBR,United Kingdom
+2031,60.66,GBR,United Kingdom
+2032,61.12,GBR,United Kingdom
+2033,61.58,GBR,United Kingdom
+2034,62.05,GBR,United Kingdom
+2035,62.51,GBR,United Kingdom
+2036,62.97,GBR,United Kingdom
+2037,63.43,GBR,United Kingdom
+2038,63.88,GBR,United Kingdom
+2039,64.29,GBR,United Kingdom
+2040,64.67,GBR,United Kingdom
+2024,59.49,GEO,Georgia
+2025,58.74,GEO,Georgia
+2026,58.09,GEO,Georgia
+2027,56.86,GEO,Georgia
+2028,57.23,GEO,Georgia
+2029,57.56,GEO,Georgia
+2030,57.89,GEO,Georgia
+2031,58.24,GEO,Georgia
+2032,58.59,GEO,Georgia
+2033,58.95,GEO,Georgia
+2034,59.3,GEO,Georgia
+2035,59.66,GEO,Georgia
+2036,60.03,GEO,Georgia
+2037,60.39,GEO,Georgia
+2038,60.76,GEO,Georgia
+2039,61.13,GEO,Georgia
+2040,61.5,GEO,Georgia
+2024,70.76,GHA,Ghana
+2025,68.1,GHA,Ghana
+2026,64.82,GHA,Ghana
+2027,60.3,GHA,Ghana
+2028,60.49,GHA,Ghana
+2029,60.83,GHA,Ghana
+2030,61.17,GHA,Ghana
+2031,61.53,GHA,Ghana
+2032,61.89,GHA,Ghana
+2033,62.25,GHA,Ghana
+2034,62.62,GHA,Ghana
+2035,62.99,GHA,Ghana
+2036,63.36,GHA,Ghana
+2037,63.73,GHA,Ghana
+2038,64.1,GHA,Ghana
+2039,64.48,GHA,Ghana
+2040,64.86,GHA,Ghana
+2024,5.71,GIB,Gibraltar
+2025,5.71,GIB,Gibraltar
+2026,5.71,GIB,Gibraltar
+2027,5.71,GIB,Gibraltar
+2028,5.71,GIB,Gibraltar
+2029,56.04,GIB,Gibraltar
+2030,56.42,GIB,Gibraltar
+2031,56.8,GIB,Gibraltar
+2032,57.17,GIB,Gibraltar
+2033,57.53,GIB,Gibraltar
+2034,57.89,GIB,Gibraltar
+2035,58.25,GIB,Gibraltar
+2036,58.6,GIB,Gibraltar
+2037,58.95,GIB,Gibraltar
+2038,59.3,GIB,Gibraltar
+2039,59.63,GIB,Gibraltar
+2040,59.97,GIB,Gibraltar
+2024,5.71,GIN,Guinea
+2025,5.71,GIN,Guinea
+2026,5.71,GIN,Guinea
+2027,5.71,GIN,Guinea
+2028,5.71,GIN,Guinea
+2029,59.49,GIN,Guinea
+2030,59.88,GIN,Guinea
+2031,60.26,GIN,Guinea
+2032,60.63,GIN,Guinea
+2033,61.01,GIN,Guinea
+2034,61.37,GIN,Guinea
+2035,61.74,GIN,Guinea
+2036,62.1,GIN,Guinea
+2037,62.45,GIN,Guinea
+2038,62.8,GIN,Guinea
+2039,63.15,GIN,Guinea
+2040,63.49,GIN,Guinea
+2024,5.71,GMB,"Gambia, The"
+2025,5.71,GMB,"Gambia, The"
+2026,5.71,GMB,"Gambia, The"
+2027,5.71,GMB,"Gambia, The"
+2028,5.71,GMB,"Gambia, The"
+2029,59.44,GMB,"Gambia, The"
+2030,59.82,GMB,"Gambia, The"
+2031,60.2,GMB,"Gambia, The"
+2032,60.58,GMB,"Gambia, The"
+2033,60.95,GMB,"Gambia, The"
+2034,61.31,GMB,"Gambia, The"
+2035,61.68,GMB,"Gambia, The"
+2036,62.04,GMB,"Gambia, The"
+2037,62.39,GMB,"Gambia, The"
+2038,62.74,GMB,"Gambia, The"
+2039,63.08,GMB,"Gambia, The"
+2040,63.43,GMB,"Gambia, The"
+2024,5.71,GNB,Guinea-Bissau
+2025,5.71,GNB,Guinea-Bissau
+2026,5.71,GNB,Guinea-Bissau
+2027,5.71,GNB,Guinea-Bissau
+2028,5.71,GNB,Guinea-Bissau
+2029,59.44,GNB,Guinea-Bissau
+2030,59.83,GNB,Guinea-Bissau
+2031,60.21,GNB,Guinea-Bissau
+2032,60.59,GNB,Guinea-Bissau
+2033,60.96,GNB,Guinea-Bissau
+2034,61.32,GNB,Guinea-Bissau
+2035,61.69,GNB,Guinea-Bissau
+2036,62.04,GNB,Guinea-Bissau
+2037,62.4,GNB,Guinea-Bissau
+2038,62.75,GNB,Guinea-Bissau
+2039,63.09,GNB,Guinea-Bissau
+2040,63.43,GNB,Guinea-Bissau
+2024,48.96,GNQ,Equatorial Guinea
+2025,49.97,GNQ,Equatorial Guinea
+2026,52.23,GNQ,Equatorial Guinea
+2027,55.83,GNQ,Equatorial Guinea
+2028,60.51,GNQ,Equatorial Guinea
+2029,60.85,GNQ,Equatorial Guinea
+2030,61.19,GNQ,Equatorial Guinea
+2031,61.54,GNQ,Equatorial Guinea
+2032,61.89,GNQ,Equatorial Guinea
+2033,62.25,GNQ,Equatorial Guinea
+2034,62.62,GNQ,Equatorial Guinea
+2035,62.99,GNQ,Equatorial Guinea
+2036,63.36,GNQ,Equatorial Guinea
+2037,63.73,GNQ,Equatorial Guinea
+2038,64.11,GNQ,Equatorial Guinea
+2039,64.48,GNQ,Equatorial Guinea
+2040,64.86,GNQ,Equatorial Guinea
+2024,55.03,GRC,Greece
+2025,55.88,GRC,Greece
+2026,56.2,GRC,Greece
+2027,56.13,GRC,Greece
+2028,56.48,GRC,Greece
+2029,56.84,GRC,Greece
+2030,57.2,GRC,Greece
+2031,57.56,GRC,Greece
+2032,57.92,GRC,Greece
+2033,58.29,GRC,Greece
+2034,58.67,GRC,Greece
+2035,59.06,GRC,Greece
+2036,59.44,GRC,Greece
+2037,59.83,GRC,Greece
+2038,60.22,GRC,Greece
+2039,60.61,GRC,Greece
+2040,61.01,GRC,Greece
+2024,5.71,GRD,Grenada
+2025,5.71,GRD,Grenada
+2026,5.71,GRD,Grenada
+2027,5.71,GRD,Grenada
+2028,5.71,GRD,Grenada
+2029,60.25,GRD,Grenada
+2030,60.65,GRD,Grenada
+2031,61.03,GRD,Grenada
+2032,61.42,GRD,Grenada
+2033,61.8,GRD,Grenada
+2034,62.17,GRD,Grenada
+2035,62.54,GRD,Grenada
+2036,62.91,GRD,Grenada
+2037,63.27,GRD,Grenada
+2038,63.63,GRD,Grenada
+2039,63.98,GRD,Grenada
+2040,64.33,GRD,Grenada
+2024,5.71,GRL,Greenland
+2025,5.71,GRL,Greenland
+2026,5.71,GRL,Greenland
+2027,5.71,GRL,Greenland
+2028,5.71,GRL,Greenland
+2029,63.39,GRL,Greenland
+2030,63.8,GRL,Greenland
+2031,64.2,GRL,Greenland
+2032,64.6,GRL,Greenland
+2033,65.0,GRL,Greenland
+2034,65.38,GRL,Greenland
+2035,65.77,GRL,Greenland
+2036,66.15,GRL,Greenland
+2037,66.52,GRL,Greenland
+2038,66.89,GRL,Greenland
+2039,67.26,GRL,Greenland
+2040,67.62,GRL,Greenland
+2024,79.02,GTM,Guatemala
+2025,75.72,GTM,Guatemala
+2026,69.65,GTM,Guatemala
+2027,60.34,GTM,Guatemala
+2028,60.52,GTM,Guatemala
+2029,60.86,GTM,Guatemala
+2030,61.2,GTM,Guatemala
+2031,61.55,GTM,Guatemala
+2032,61.9,GTM,Guatemala
+2033,62.27,GTM,Guatemala
+2034,62.64,GTM,Guatemala
+2035,63.01,GTM,Guatemala
+2036,63.38,GTM,Guatemala
+2037,63.75,GTM,Guatemala
+2038,64.13,GTM,Guatemala
+2039,64.51,GTM,Guatemala
+2040,64.88,GTM,Guatemala
+2024,5.71,GUM,Guam
+2025,5.71,GUM,Guam
+2026,5.71,GUM,Guam
+2027,5.71,GUM,Guam
+2028,5.71,GUM,Guam
+2029,59.89,GUM,Guam
+2030,60.28,GUM,Guam
+2031,60.66,GUM,Guam
+2032,61.04,GUM,Guam
+2033,61.42,GUM,Guam
+2034,61.79,GUM,Guam
+2035,62.16,GUM,Guam
+2036,62.52,GUM,Guam
+2037,62.88,GUM,Guam
+2038,63.23,GUM,Guam
+2039,63.58,GUM,Guam
+2040,63.93,GUM,Guam
+2024,5.71,GUY,Guyana
+2025,5.71,GUY,Guyana
+2026,5.71,GUY,Guyana
+2027,5.71,GUY,Guyana
+2028,5.71,GUY,Guyana
+2029,60.92,GUY,Guyana
+2030,61.32,GUY,Guyana
+2031,61.71,GUY,Guyana
+2032,62.1,GUY,Guyana
+2033,62.49,GUY,Guyana
+2034,62.87,GUY,Guyana
+2035,63.24,GUY,Guyana
+2036,63.61,GUY,Guyana
+2037,63.98,GUY,Guyana
+2038,64.34,GUY,Guyana
+2039,64.7,GUY,Guyana
+2040,65.06,GUY,Guyana
+2024,36.68,HKG,"Hong Kong SAR, China"
+2025,41.9,HKG,"Hong Kong SAR, China"
+2026,48.42,HKG,"Hong Kong SAR, China"
+2027,55.87,HKG,"Hong Kong SAR, China"
+2028,56.22,HKG,"Hong Kong SAR, China"
+2029,56.64,HKG,"Hong Kong SAR, China"
+2030,57.07,HKG,"Hong Kong SAR, China"
+2031,57.49,HKG,"Hong Kong SAR, China"
+2032,57.92,HKG,"Hong Kong SAR, China"
+2033,58.35,HKG,"Hong Kong SAR, China"
+2034,58.78,HKG,"Hong Kong SAR, China"
+2035,59.22,HKG,"Hong Kong SAR, China"
+2036,59.66,HKG,"Hong Kong SAR, China"
+2037,60.1,HKG,"Hong Kong SAR, China"
+2038,60.54,HKG,"Hong Kong SAR, China"
+2039,60.98,HKG,"Hong Kong SAR, China"
+2040,61.42,HKG,"Hong Kong SAR, China"
+2024,73.36,HND,Honduras
+2025,71.01,HND,Honduras
+2026,66.24,HND,Honduras
+2027,60.24,HND,Honduras
+2028,60.42,HND,Honduras
+2029,60.74,HND,Honduras
+2030,61.07,HND,Honduras
+2031,61.39,HND,Honduras
+2032,61.72,HND,Honduras
+2033,62.05,HND,Honduras
+2034,62.4,HND,Honduras
+2035,62.75,HND,Honduras
+2036,63.11,HND,Honduras
+2037,63.46,HND,Honduras
+2038,63.82,HND,Honduras
+2039,64.18,HND,Honduras
+2040,64.54,HND,Honduras
+2024,78.74,HPC,Heavily indebted poor countries (HIPC)
+2025,72.38,HPC,Heavily indebted poor countries (HIPC)
+2026,60.7,HPC,Heavily indebted poor countries (HIPC)
+2027,60.8,HPC,Heavily indebted poor countries (HIPC)
+2028,60.99,HPC,Heavily indebted poor countries (HIPC)
+2029,61.32,HPC,Heavily indebted poor countries (HIPC)
+2030,61.65,HPC,Heavily indebted poor countries (HIPC)
+2031,61.98,HPC,Heavily indebted poor countries (HIPC)
+2032,62.31,HPC,Heavily indebted poor countries (HIPC)
+2033,62.65,HPC,Heavily indebted poor countries (HIPC)
+2034,62.99,HPC,Heavily indebted poor countries (HIPC)
+2035,63.33,HPC,Heavily indebted poor countries (HIPC)
+2036,63.69,HPC,Heavily indebted poor countries (HIPC)
+2037,64.05,HPC,Heavily indebted poor countries (HIPC)
+2038,64.42,HPC,Heavily indebted poor countries (HIPC)
+2039,64.78,HPC,Heavily indebted poor countries (HIPC)
+2040,65.15,HPC,Heavily indebted poor countries (HIPC)
+2024,63.88,HRV,Croatia
+2025,62.56,HRV,Croatia
+2026,60.22,HRV,Croatia
+2027,56.38,HRV,Croatia
+2028,56.67,HRV,Croatia
+2029,57.03,HRV,Croatia
+2030,57.4,HRV,Croatia
+2031,57.76,HRV,Croatia
+2032,58.15,HRV,Croatia
+2033,58.53,HRV,Croatia
+2034,58.92,HRV,Croatia
+2035,59.31,HRV,Croatia
+2036,59.7,HRV,Croatia
+2037,60.1,HRV,Croatia
+2038,60.49,HRV,Croatia
+2039,60.89,HRV,Croatia
+2040,61.29,HRV,Croatia
+2024,5.71,HTI,Haiti
+2025,5.71,HTI,Haiti
+2026,5.71,HTI,Haiti
+2027,5.71,HTI,Haiti
+2028,5.71,HTI,Haiti
+2029,59.5,HTI,Haiti
+2030,59.89,HTI,Haiti
+2031,60.27,HTI,Haiti
+2032,60.65,HTI,Haiti
+2033,61.02,HTI,Haiti
+2034,61.39,HTI,Haiti
+2035,61.75,HTI,Haiti
+2036,62.11,HTI,Haiti
+2037,62.46,HTI,Haiti
+2038,62.81,HTI,Haiti
+2039,63.16,HTI,Haiti
+2040,63.5,HTI,Haiti
+2024,50.99,HUN,Hungary
+2025,52.49,HUN,Hungary
+2026,54.04,HUN,Hungary
+2027,55.98,HUN,Hungary
+2028,56.51,HUN,Hungary
+2029,56.87,HUN,Hungary
+2030,57.23,HUN,Hungary
+2031,57.6,HUN,Hungary
+2032,57.98,HUN,Hungary
+2033,58.37,HUN,Hungary
+2034,58.75,HUN,Hungary
+2035,59.14,HUN,Hungary
+2036,59.53,HUN,Hungary
+2037,59.93,HUN,Hungary
+2038,60.32,HUN,Hungary
+2039,60.72,HUN,Hungary
+2040,61.12,HUN,Hungary
+2024,57.3,IBD,IBRD only
+2025,57.96,IBD,IBRD only
+2026,58.49,IBD,IBRD only
+2027,58.53,IBD,IBRD only
+2028,58.69,IBD,IBRD only
+2029,59.04,IBD,IBRD only
+2030,59.4,IBD,IBRD only
+2031,59.76,IBD,IBRD only
+2032,60.13,IBD,IBRD only
+2033,60.49,IBD,IBRD only
+2034,60.86,IBD,IBRD only
+2035,61.23,IBD,IBRD only
+2036,61.61,IBD,IBRD only
+2037,61.98,IBD,IBRD only
+2038,62.36,IBD,IBRD only
+2039,62.74,IBD,IBRD only
+2040,63.12,IBD,IBRD only
+2024,61.15,IBT,IDA & IBRD total
+2025,60.75,IBT,IDA & IBRD total
+2026,59.92,IBT,IDA & IBRD total
+2027,59.97,IBT,IDA & IBRD total
+2028,60.16,IBT,IDA & IBRD total
+2029,60.52,IBT,IDA & IBRD total
+2030,60.87,IBT,IDA & IBRD total
+2031,61.24,IBT,IDA & IBRD total
+2032,61.6,IBT,IDA & IBRD total
+2033,61.96,IBT,IDA & IBRD total
+2034,62.33,IBT,IDA & IBRD total
+2035,62.7,IBT,IDA & IBRD total
+2036,63.08,IBT,IDA & IBRD total
+2037,63.45,IBT,IDA & IBRD total
+2038,63.83,IBT,IDA & IBRD total
+2039,64.21,IBT,IDA & IBRD total
+2040,64.58,IBT,IDA & IBRD total
+2024,75.7,IDA,IDA total
+2025,70.09,IDA,IDA total
+2026,60.64,IDA,IDA total
+2027,60.75,IDA,IDA total
+2028,60.94,IDA,IDA total
+2029,61.27,IDA,IDA total
+2030,61.6,IDA,IDA total
+2031,61.93,IDA,IDA total
+2032,62.27,IDA,IDA total
+2033,62.61,IDA,IDA total
+2034,62.96,IDA,IDA total
+2035,63.3,IDA,IDA total
+2036,63.65,IDA,IDA total
+2037,64.0,IDA,IDA total
+2038,64.37,IDA,IDA total
+2039,64.74,IDA,IDA total
+2040,65.11,IDA,IDA total
+2024,74.76,IDB,IDA blend
+2025,69.31,IDB,IDA blend
+2026,60.38,IDB,IDA blend
+2027,60.51,IDB,IDA blend
+2028,60.7,IDB,IDA blend
+2029,61.04,IDB,IDA blend
+2030,61.38,IDB,IDA blend
+2031,61.72,IDB,IDA blend
+2032,62.07,IDB,IDA blend
+2033,62.43,IDB,IDA blend
+2034,62.79,IDB,IDA blend
+2035,63.16,IDB,IDA blend
+2036,63.53,IDB,IDA blend
+2037,63.9,IDB,IDA blend
+2038,64.27,IDB,IDA blend
+2039,64.65,IDB,IDA blend
+2040,65.02,IDB,IDA blend
+2024,59.8,IDN,Indonesia
+2025,59.93,IDN,Indonesia
+2026,59.41,IDN,Indonesia
+2027,59.42,IDN,Indonesia
+2028,59.58,IDN,Indonesia
+2029,59.92,IDN,Indonesia
+2030,60.26,IDN,Indonesia
+2031,60.6,IDN,Indonesia
+2032,60.96,IDN,Indonesia
+2033,61.32,IDN,Indonesia
+2034,61.69,IDN,Indonesia
+2035,62.05,IDN,Indonesia
+2036,62.42,IDN,Indonesia
+2037,62.79,IDN,Indonesia
+2038,63.17,IDN,Indonesia
+2039,63.54,IDN,Indonesia
+2040,63.92,IDN,Indonesia
+2024,76.52,IDX,IDA only
+2025,70.77,IDX,IDA only
+2026,60.57,IDX,IDA only
+2027,60.67,IDX,IDA only
+2028,60.86,IDX,IDA only
+2029,61.19,IDX,IDA only
+2030,61.53,IDX,IDA only
+2031,61.86,IDX,IDA only
+2032,62.2,IDX,IDA only
+2033,62.54,IDX,IDA only
+2034,62.89,IDX,IDA only
+2035,63.23,IDX,IDA only
+2036,63.6,IDX,IDA only
+2037,63.96,IDX,IDA only
+2038,64.33,IDX,IDA only
+2039,64.7,IDX,IDA only
+2040,65.07,IDX,IDA only
+2024,5.71,IMN,Isle of Man
+2025,5.71,IMN,Isle of Man
+2026,5.71,IMN,Isle of Man
+2027,5.71,IMN,Isle of Man
+2028,5.71,IMN,Isle of Man
+2029,59.89,IMN,Isle of Man
+2030,60.28,IMN,Isle of Man
+2031,60.66,IMN,Isle of Man
+2032,61.04,IMN,Isle of Man
+2033,61.42,IMN,Isle of Man
+2034,61.79,IMN,Isle of Man
+2035,62.16,IMN,Isle of Man
+2036,62.52,IMN,Isle of Man
+2037,62.88,IMN,Isle of Man
+2038,63.23,IMN,Isle of Man
+2039,63.58,IMN,Isle of Man
+2040,63.93,IMN,Isle of Man
+2024,67.48,IND,India
+2025,66.11,IND,India
+2026,63.27,IND,India
+2027,59.58,IND,India
+2028,59.84,IND,India
+2029,60.2,IND,India
+2030,60.57,IND,India
+2031,60.96,IND,India
+2032,61.34,IND,India
+2033,61.73,IND,India
+2034,62.11,IND,India
+2035,62.5,IND,India
+2036,62.89,IND,India
+2037,63.29,IND,India
+2038,63.68,IND,India
+2039,64.07,IND,India
+2040,64.47,IND,India
+2024,53.64,IRL,Ireland
+2025,55.61,IRL,Ireland
+2026,57.46,IRL,Ireland
+2027,59.92,IRL,Ireland
+2028,60.2,IRL,Ireland
+2029,60.65,IRL,Ireland
+2030,61.09,IRL,Ireland
+2031,61.54,IRL,Ireland
+2032,61.98,IRL,Ireland
+2033,62.42,IRL,Ireland
+2034,62.87,IRL,Ireland
+2035,63.31,IRL,Ireland
+2036,63.75,IRL,Ireland
+2037,64.18,IRL,Ireland
+2038,64.62,IRL,Ireland
+2039,65.05,IRL,Ireland
+2040,65.48,IRL,Ireland
+2024,39.92,IRN,"Iran, Islamic Rep."
+2025,44.1,IRN,"Iran, Islamic Rep."
+2026,49.7,IRN,"Iran, Islamic Rep."
+2027,56.17,IRN,"Iran, Islamic Rep."
+2028,56.45,IRN,"Iran, Islamic Rep."
+2029,56.77,IRN,"Iran, Islamic Rep."
+2030,57.09,IRN,"Iran, Islamic Rep."
+2031,57.42,IRN,"Iran, Islamic Rep."
+2032,57.76,IRN,"Iran, Islamic Rep."
+2033,58.1,IRN,"Iran, Islamic Rep."
+2034,58.45,IRN,"Iran, Islamic Rep."
+2035,58.79,IRN,"Iran, Islamic Rep."
+2036,59.14,IRN,"Iran, Islamic Rep."
+2037,59.5,IRN,"Iran, Islamic Rep."
+2038,59.85,IRN,"Iran, Islamic Rep."
+2039,60.21,IRN,"Iran, Islamic Rep."
+2040,60.57,IRN,"Iran, Islamic Rep."
+2024,44.21,IRQ,Iraq
+2025,48.21,IRQ,Iraq
+2026,53.31,IRQ,Iraq
+2027,59.31,IRQ,Iraq
+2028,59.74,IRQ,Iraq
+2029,60.07,IRQ,Iraq
+2030,60.41,IRQ,Iraq
+2031,60.75,IRQ,Iraq
+2032,61.1,IRQ,Iraq
+2033,61.46,IRQ,Iraq
+2034,61.82,IRQ,Iraq
+2035,62.18,IRQ,Iraq
+2036,62.55,IRQ,Iraq
+2037,62.92,IRQ,Iraq
+2038,63.29,IRQ,Iraq
+2039,63.66,IRQ,Iraq
+2040,64.04,IRQ,Iraq
+2024,61.35,ISL,Iceland
+2025,47.42,ISL,Iceland
+2026,19.23,ISL,Iceland
+2027,5.88,ISL,Iceland
+2028,5.88,ISL,Iceland
+2029,5.88,ISL,Iceland
+2030,5.89,ISL,Iceland
+2031,5.89,ISL,Iceland
+2032,5.89,ISL,Iceland
+2033,5.89,ISL,Iceland
+2034,5.9,ISL,Iceland
+2035,5.9,ISL,Iceland
+2036,5.9,ISL,Iceland
+2037,5.9,ISL,Iceland
+2038,5.9,ISL,Iceland
+2039,5.9,ISL,Iceland
+2040,5.91,ISL,Iceland
+2024,39.37,ISR,Israel
+2025,44.29,ISR,Israel
+2026,49.82,ISR,Israel
+2027,55.72,ISR,Israel
+2028,55.94,ISR,Israel
+2029,56.4,ISR,Israel
+2030,56.86,ISR,Israel
+2031,57.32,ISR,Israel
+2032,57.78,ISR,Israel
+2033,58.24,ISR,Israel
+2034,58.71,ISR,Israel
+2035,59.17,ISR,Israel
+2036,59.63,ISR,Israel
+2037,60.08,ISR,Israel
+2038,60.49,ISR,Israel
+2039,60.86,ISR,Israel
+2040,61.22,ISR,Israel
+2024,54.34,ITA,Italy
+2025,55.16,ITA,Italy
+2026,55.58,ITA,Italy
+2027,56.73,ITA,Italy
+2028,57.16,ITA,Italy
+2029,57.55,ITA,Italy
+2030,57.95,ITA,Italy
+2031,58.34,ITA,Italy
+2032,58.74,ITA,Italy
+2033,59.15,ITA,Italy
+2034,59.55,ITA,Italy
+2035,59.96,ITA,Italy
+2036,60.36,ITA,Italy
+2037,60.78,ITA,Italy
+2038,61.2,ITA,Italy
+2039,61.62,ITA,Italy
+2040,62.04,ITA,Italy
+2024,52.92,JAM,Jamaica
+2025,55.14,JAM,Jamaica
+2026,57.05,JAM,Jamaica
+2027,59.88,JAM,Jamaica
+2028,60.07,JAM,Jamaica
+2029,60.41,JAM,Jamaica
+2030,60.74,JAM,Jamaica
+2031,61.08,JAM,Jamaica
+2032,61.43,JAM,Jamaica
+2033,61.78,JAM,Jamaica
+2034,62.14,JAM,Jamaica
+2035,62.51,JAM,Jamaica
+2036,62.88,JAM,Jamaica
+2037,63.25,JAM,Jamaica
+2038,63.62,JAM,Jamaica
+2039,63.99,JAM,Jamaica
+2040,64.36,JAM,Jamaica
+2024,50.76,JOR,Jordan
+2025,53.33,JOR,Jordan
+2026,55.8,JOR,Jordan
+2027,58.57,JOR,Jordan
+2028,59.02,JOR,Jordan
+2029,59.34,JOR,Jordan
+2030,59.68,JOR,Jordan
+2031,60.01,JOR,Jordan
+2032,60.36,JOR,Jordan
+2033,60.72,JOR,Jordan
+2034,61.07,JOR,Jordan
+2035,61.43,JOR,Jordan
+2036,61.79,JOR,Jordan
+2037,62.16,JOR,Jordan
+2038,62.52,JOR,Jordan
+2039,62.89,JOR,Jordan
+2040,63.26,JOR,Jordan
+2024,41.36,JPN,Japan
+2025,44.59,JPN,Japan
+2026,48.27,JPN,Japan
+2027,52.76,JPN,Japan
+2028,53.05,JPN,Japan
+2029,53.46,JPN,Japan
+2030,53.87,JPN,Japan
+2031,54.29,JPN,Japan
+2032,54.7,JPN,Japan
+2033,55.12,JPN,Japan
+2034,55.54,JPN,Japan
+2035,55.96,JPN,Japan
+2036,56.38,JPN,Japan
+2037,56.81,JPN,Japan
+2038,57.23,JPN,Japan
+2039,57.66,JPN,Japan
+2040,58.08,JPN,Japan
+2024,37.77,KAZ,Kazakhstan
+2025,42.1,KAZ,Kazakhstan
+2026,48.06,KAZ,Kazakhstan
+2027,54.69,KAZ,Kazakhstan
+2028,55.07,KAZ,Kazakhstan
+2029,55.4,KAZ,Kazakhstan
+2030,55.75,KAZ,Kazakhstan
+2031,56.1,KAZ,Kazakhstan
+2032,56.46,KAZ,Kazakhstan
+2033,56.81,KAZ,Kazakhstan
+2034,57.17,KAZ,Kazakhstan
+2035,57.53,KAZ,Kazakhstan
+2036,57.9,KAZ,Kazakhstan
+2037,58.27,KAZ,Kazakhstan
+2038,58.64,KAZ,Kazakhstan
+2039,59.01,KAZ,Kazakhstan
+2040,59.38,KAZ,Kazakhstan
+2024,80.55,KEN,Kenya
+2025,77.03,KEN,Kenya
+2026,70.95,KEN,Kenya
+2027,60.77,KEN,Kenya
+2028,60.98,KEN,Kenya
+2029,61.31,KEN,Kenya
+2030,61.65,KEN,Kenya
+2031,61.98,KEN,Kenya
+2032,62.32,KEN,Kenya
+2033,62.68,KEN,Kenya
+2034,63.03,KEN,Kenya
+2035,63.4,KEN,Kenya
+2036,63.76,KEN,Kenya
+2037,64.12,KEN,Kenya
+2038,64.49,KEN,Kenya
+2039,64.86,KEN,Kenya
+2040,65.23,KEN,Kenya
+2024,63.42,KGZ,Kyrgyz Republic
+2025,62.41,KGZ,Kyrgyz Republic
+2026,60.36,KGZ,Kyrgyz Republic
+2027,58.45,KGZ,Kyrgyz Republic
+2028,58.62,KGZ,Kyrgyz Republic
+2029,58.93,KGZ,Kyrgyz Republic
+2030,59.25,KGZ,Kyrgyz Republic
+2031,59.58,KGZ,Kyrgyz Republic
+2032,59.92,KGZ,Kyrgyz Republic
+2033,60.26,KGZ,Kyrgyz Republic
+2034,60.61,KGZ,Kyrgyz Republic
+2035,60.96,KGZ,Kyrgyz Republic
+2036,61.31,KGZ,Kyrgyz Republic
+2037,61.66,KGZ,Kyrgyz Republic
+2038,62.02,KGZ,Kyrgyz Republic
+2039,62.38,KGZ,Kyrgyz Republic
+2040,62.74,KGZ,Kyrgyz Republic
+2024,75.18,KHM,Cambodia
+2025,72.05,KHM,Cambodia
+2026,67.51,KHM,Cambodia
+2027,60.02,KHM,Cambodia
+2028,60.14,KHM,Cambodia
+2029,60.46,KHM,Cambodia
+2030,60.78,KHM,Cambodia
+2031,61.11,KHM,Cambodia
+2032,61.43,KHM,Cambodia
+2033,61.77,KHM,Cambodia
+2034,62.11,KHM,Cambodia
+2035,62.46,KHM,Cambodia
+2036,62.82,KHM,Cambodia
+2037,63.17,KHM,Cambodia
+2038,63.53,KHM,Cambodia
+2039,63.89,KHM,Cambodia
+2040,64.25,KHM,Cambodia
+2024,5.71,KIR,Kiribati
+2025,5.71,KIR,Kiribati
+2026,5.71,KIR,Kiribati
+2027,5.71,KIR,Kiribati
+2028,5.71,KIR,Kiribati
+2029,59.54,KIR,Kiribati
+2030,59.92,KIR,Kiribati
+2031,60.31,KIR,Kiribati
+2032,60.68,KIR,Kiribati
+2033,61.05,KIR,Kiribati
+2034,61.42,KIR,Kiribati
+2035,61.79,KIR,Kiribati
+2036,62.14,KIR,Kiribati
+2037,62.5,KIR,Kiribati
+2038,62.85,KIR,Kiribati
+2039,63.2,KIR,Kiribati
+2040,63.54,KIR,Kiribati
+2024,5.71,KNA,St. Kitts and Nevis
+2025,5.71,KNA,St. Kitts and Nevis
+2026,5.71,KNA,St. Kitts and Nevis
+2027,5.71,KNA,St. Kitts and Nevis
+2028,5.71,KNA,St. Kitts and Nevis
+2029,61.07,KNA,St. Kitts and Nevis
+2030,61.47,KNA,St. Kitts and Nevis
+2031,61.87,KNA,St. Kitts and Nevis
+2032,62.26,KNA,St. Kitts and Nevis
+2033,62.64,KNA,St. Kitts and Nevis
+2034,63.02,KNA,St. Kitts and Nevis
+2035,63.4,KNA,St. Kitts and Nevis
+2036,63.77,KNA,St. Kitts and Nevis
+2037,64.14,KNA,St. Kitts and Nevis
+2038,64.5,KNA,St. Kitts and Nevis
+2039,64.86,KNA,St. Kitts and Nevis
+2040,65.22,KNA,St. Kitts and Nevis
+2024,27.46,KOR,"Korea, Rep."
+2025,32.39,KOR,"Korea, Rep."
+2026,38.68,KOR,"Korea, Rep."
+2027,46.61,KOR,"Korea, Rep."
+2028,47.29,KOR,"Korea, Rep."
+2029,47.71,KOR,"Korea, Rep."
+2030,48.13,KOR,"Korea, Rep."
+2031,48.56,KOR,"Korea, Rep."
+2032,48.98,KOR,"Korea, Rep."
+2033,49.41,KOR,"Korea, Rep."
+2034,49.84,KOR,"Korea, Rep."
+2035,50.27,KOR,"Korea, Rep."
+2036,50.68,KOR,"Korea, Rep."
+2037,51.06,KOR,"Korea, Rep."
+2038,51.4,KOR,"Korea, Rep."
+2039,51.72,KOR,"Korea, Rep."
+2040,52.04,KOR,"Korea, Rep."
+2024,11.25,KWT,Kuwait
+2025,18.0,KWT,Kuwait
+2026,27.0,KWT,Kuwait
+2027,38.02,KWT,Kuwait
+2028,38.11,KWT,Kuwait
+2029,38.48,KWT,Kuwait
+2030,38.85,KWT,Kuwait
+2031,39.22,KWT,Kuwait
+2032,39.59,KWT,Kuwait
+2033,39.97,KWT,Kuwait
+2034,40.35,KWT,Kuwait
+2035,40.73,KWT,Kuwait
+2036,41.12,KWT,Kuwait
+2037,41.5,KWT,Kuwait
+2038,41.93,KWT,Kuwait
+2039,42.39,KWT,Kuwait
+2040,42.85,KWT,Kuwait
+2024,64.43,LAC,Latin America & Caribbean (excluding high income)
+2025,62.48,LAC,Latin America & Caribbean (excluding high income)
+2026,58.61,LAC,Latin America & Caribbean (excluding high income)
+2027,58.7,LAC,Latin America & Caribbean (excluding high income)
+2028,58.87,LAC,Latin America & Caribbean (excluding high income)
+2029,59.2,LAC,Latin America & Caribbean (excluding high income)
+2030,59.55,LAC,Latin America & Caribbean (excluding high income)
+2031,59.89,LAC,Latin America & Caribbean (excluding high income)
+2032,60.24,LAC,Latin America & Caribbean (excluding high income)
+2033,60.59,LAC,Latin America & Caribbean (excluding high income)
+2034,60.96,LAC,Latin America & Caribbean (excluding high income)
+2035,61.33,LAC,Latin America & Caribbean (excluding high income)
+2036,61.7,LAC,Latin America & Caribbean (excluding high income)
+2037,62.07,LAC,Latin America & Caribbean (excluding high income)
+2038,62.45,LAC,Latin America & Caribbean (excluding high income)
+2039,62.83,LAC,Latin America & Caribbean (excluding high income)
+2040,63.21,LAC,Latin America & Caribbean (excluding high income)
+2024,75.97,LAO,Lao PDR
+2025,74.25,LAO,Lao PDR
+2026,71.17,LAO,Lao PDR
+2027,66.21,LAO,Lao PDR
+2028,59.19,LAO,Lao PDR
+2029,59.51,LAO,Lao PDR
+2030,59.82,LAO,Lao PDR
+2031,60.14,LAO,Lao PDR
+2032,60.46,LAO,Lao PDR
+2033,60.79,LAO,Lao PDR
+2034,61.13,LAO,Lao PDR
+2035,61.48,LAO,Lao PDR
+2036,61.83,LAO,Lao PDR
+2037,62.18,LAO,Lao PDR
+2038,62.53,LAO,Lao PDR
+2039,62.88,LAO,Lao PDR
+2040,63.24,LAO,Lao PDR
+2024,46.84,LBN,Lebanon
+2025,51.12,LBN,Lebanon
+2026,55.67,LBN,Lebanon
+2027,60.05,LBN,Lebanon
+2028,60.16,LBN,Lebanon
+2029,60.48,LBN,Lebanon
+2030,60.8,LBN,Lebanon
+2031,61.13,LBN,Lebanon
+2032,61.46,LBN,Lebanon
+2033,61.79,LBN,Lebanon
+2034,62.13,LBN,Lebanon
+2035,62.48,LBN,Lebanon
+2036,62.84,LBN,Lebanon
+2037,63.19,LBN,Lebanon
+2038,63.55,LBN,Lebanon
+2039,63.91,LBN,Lebanon
+2040,64.27,LBN,Lebanon
+2024,5.71,LBR,Liberia
+2025,5.71,LBR,Liberia
+2026,5.71,LBR,Liberia
+2027,5.71,LBR,Liberia
+2028,5.71,LBR,Liberia
+2029,59.43,LBR,Liberia
+2030,59.81,LBR,Liberia
+2031,60.19,LBR,Liberia
+2032,60.57,LBR,Liberia
+2033,60.94,LBR,Liberia
+2034,61.31,LBR,Liberia
+2035,61.67,LBR,Liberia
+2036,62.03,LBR,Liberia
+2037,62.38,LBR,Liberia
+2038,62.73,LBR,Liberia
+2039,63.08,LBR,Liberia
+2040,63.42,LBR,Liberia
+2024,36.35,LBY,Libya
+2025,41.23,LBY,Libya
+2026,47.09,LBY,Libya
+2027,54.47,LBY,Libya
+2028,56.55,LBY,Libya
+2029,56.86,LBY,Libya
+2030,57.18,LBY,Libya
+2031,57.51,LBY,Libya
+2032,57.85,LBY,Libya
+2033,58.19,LBY,Libya
+2034,58.53,LBY,Libya
+2035,58.88,LBY,Libya
+2036,59.23,LBY,Libya
+2037,59.58,LBY,Libya
+2038,59.94,LBY,Libya
+2039,60.3,LBY,Libya
+2040,60.65,LBY,Libya
+2024,5.71,LCA,St. Lucia
+2025,5.71,LCA,St. Lucia
+2026,5.71,LCA,St. Lucia
+2027,5.71,LCA,St. Lucia
+2028,5.71,LCA,St. Lucia
+2029,60.41,LCA,St. Lucia
+2030,60.81,LCA,St. Lucia
+2031,61.2,LCA,St. Lucia
+2032,61.58,LCA,St. Lucia
+2033,61.96,LCA,St. Lucia
+2034,62.34,LCA,St. Lucia
+2035,62.71,LCA,St. Lucia
+2036,63.08,LCA,St. Lucia
+2037,63.44,LCA,St. Lucia
+2038,63.8,LCA,St. Lucia
+2039,64.16,LCA,St. Lucia
+2040,64.51,LCA,St. Lucia
+2024,63.98,LCN,Latin America & Caribbean
+2025,62.23,LCN,Latin America & Caribbean
+2026,58.54,LCN,Latin America & Caribbean
+2027,58.63,LCN,Latin America & Caribbean
+2028,58.81,LCN,Latin America & Caribbean
+2029,59.15,LCN,Latin America & Caribbean
+2030,59.5,LCN,Latin America & Caribbean
+2031,59.85,LCN,Latin America & Caribbean
+2032,60.2,LCN,Latin America & Caribbean
+2033,60.55,LCN,Latin America & Caribbean
+2034,60.91,LCN,Latin America & Caribbean
+2035,61.29,LCN,Latin America & Caribbean
+2036,61.66,LCN,Latin America & Caribbean
+2037,62.04,LCN,Latin America & Caribbean
+2038,62.41,LCN,Latin America & Caribbean
+2039,62.79,LCN,Latin America & Caribbean
+2040,63.17,LCN,Latin America & Caribbean
+2024,77.4,LDC,Least developed countries: UN classification
+2025,71.43,LDC,Least developed countries: UN classification
+2026,60.64,LDC,Least developed countries: UN classification
+2027,60.73,LDC,Least developed countries: UN classification
+2028,60.92,LDC,Least developed countries: UN classification
+2029,61.25,LDC,Least developed countries: UN classification
+2030,61.58,LDC,Least developed countries: UN classification
+2031,61.92,LDC,Least developed countries: UN classification
+2032,62.26,LDC,Least developed countries: UN classification
+2033,62.6,LDC,Least developed countries: UN classification
+2034,62.94,LDC,Least developed countries: UN classification
+2035,63.29,LDC,Least developed countries: UN classification
+2036,63.65,LDC,Least developed countries: UN classification
+2037,64.01,LDC,Least developed countries: UN classification
+2038,64.38,LDC,Least developed countries: UN classification
+2039,64.75,LDC,Least developed countries: UN classification
+2040,65.12,LDC,Least developed countries: UN classification
+2024,5.71,LIE,Liechtenstein
+2025,5.71,LIE,Liechtenstein
+2026,5.71,LIE,Liechtenstein
+2027,5.71,LIE,Liechtenstein
+2028,5.71,LIE,Liechtenstein
+2029,69.54,LIE,Liechtenstein
+2030,69.89,LIE,Liechtenstein
+2031,70.22,LIE,Liechtenstein
+2032,70.55,LIE,Liechtenstein
+2033,70.88,LIE,Liechtenstein
+2034,71.19,LIE,Liechtenstein
+2035,71.5,LIE,Liechtenstein
+2036,71.79,LIE,Liechtenstein
+2037,72.08,LIE,Liechtenstein
+2038,72.37,LIE,Liechtenstein
+2039,72.64,LIE,Liechtenstein
+2040,72.9,LIE,Liechtenstein
+2024,73.48,LKA,Sri Lanka
+2025,71.2,LKA,Sri Lanka
+2026,66.9,LKA,Sri Lanka
+2027,60.29,LKA,Sri Lanka
+2028,60.54,LKA,Sri Lanka
+2029,60.87,LKA,Sri Lanka
+2030,61.2,LKA,Sri Lanka
+2031,61.54,LKA,Sri Lanka
+2032,61.88,LKA,Sri Lanka
+2033,62.23,LKA,Sri Lanka
+2034,62.59,LKA,Sri Lanka
+2035,62.95,LKA,Sri Lanka
+2036,63.32,LKA,Sri Lanka
+2037,63.68,LKA,Sri Lanka
+2038,64.05,LKA,Sri Lanka
+2039,64.42,LKA,Sri Lanka
+2040,64.79,LKA,Sri Lanka
+2024,61.66,LMY,Low & middle income
+2025,61.0,LMY,Low & middle income
+2026,59.82,LMY,Low & middle income
+2027,59.89,LMY,Low & middle income
+2028,60.08,LMY,Low & middle income
+2029,60.44,LMY,Low & middle income
+2030,60.79,LMY,Low & middle income
+2031,61.16,LMY,Low & middle income
+2032,61.52,LMY,Low & middle income
+2033,61.89,LMY,Low & middle income
+2034,62.25,LMY,Low & middle income
+2035,62.63,LMY,Low & middle income
+2036,63.0,LMY,Low & middle income
+2037,63.37,LMY,Low & middle income
+2038,63.75,LMY,Low & middle income
+2039,64.13,LMY,Low & middle income
+2040,64.51,LMY,Low & middle income
+2024,5.71,LSO,Lesotho
+2025,5.71,LSO,Lesotho
+2026,5.71,LSO,Lesotho
+2027,5.71,LSO,Lesotho
+2028,5.71,LSO,Lesotho
+2029,59.44,LSO,Lesotho
+2030,59.82,LSO,Lesotho
+2031,60.2,LSO,Lesotho
+2032,60.58,LSO,Lesotho
+2033,60.95,LSO,Lesotho
+2034,61.32,LSO,Lesotho
+2035,61.68,LSO,Lesotho
+2036,62.04,LSO,Lesotho
+2037,62.39,LSO,Lesotho
+2038,62.74,LSO,Lesotho
+2039,63.09,LSO,Lesotho
+2040,63.43,LSO,Lesotho
+2024,53.17,LTE,Late-demographic dividend
+2025,54.2,LTE,Late-demographic dividend
+2026,55.32,LTE,Late-demographic dividend
+2027,55.24,LTE,Late-demographic dividend
+2028,55.34,LTE,Late-demographic dividend
+2029,55.68,LTE,Late-demographic dividend
+2030,56.03,LTE,Late-demographic dividend
+2031,56.38,LTE,Late-demographic dividend
+2032,56.74,LTE,Late-demographic dividend
+2033,57.1,LTE,Late-demographic dividend
+2034,57.46,LTE,Late-demographic dividend
+2035,57.84,LTE,Late-demographic dividend
+2036,58.22,LTE,Late-demographic dividend
+2037,58.6,LTE,Late-demographic dividend
+2038,58.98,LTE,Late-demographic dividend
+2039,59.37,LTE,Late-demographic dividend
+2040,59.76,LTE,Late-demographic dividend
+2024,64.32,LTU,Lithuania
+2025,62.52,LTU,Lithuania
+2026,60.44,LTU,Lithuania
+2027,57.08,LTU,Lithuania
+2028,57.47,LTU,Lithuania
+2029,57.84,LTU,Lithuania
+2030,58.21,LTU,Lithuania
+2031,58.59,LTU,Lithuania
+2032,58.97,LTU,Lithuania
+2033,59.35,LTU,Lithuania
+2034,59.74,LTU,Lithuania
+2035,60.14,LTU,Lithuania
+2036,60.54,LTU,Lithuania
+2037,60.94,LTU,Lithuania
+2038,61.34,LTU,Lithuania
+2039,61.75,LTU,Lithuania
+2040,62.15,LTU,Lithuania
+2024,51.35,LUX,Luxembourg
+2025,53.47,LUX,Luxembourg
+2026,53.81,LUX,Luxembourg
+2027,54.15,LUX,Luxembourg
+2028,54.73,LUX,Luxembourg
+2029,55.18,LUX,Luxembourg
+2030,55.62,LUX,Luxembourg
+2031,56.06,LUX,Luxembourg
+2032,56.51,LUX,Luxembourg
+2033,56.95,LUX,Luxembourg
+2034,57.39,LUX,Luxembourg
+2035,57.83,LUX,Luxembourg
+2036,58.27,LUX,Luxembourg
+2037,58.7,LUX,Luxembourg
+2038,59.14,LUX,Luxembourg
+2039,59.56,LUX,Luxembourg
+2040,59.97,LUX,Luxembourg
+2024,69.93,LVA,Latvia
+2025,67.82,LVA,Latvia
+2026,63.78,LVA,Latvia
+2027,57.6,LVA,Latvia
+2028,57.9,LVA,Latvia
+2029,58.26,LVA,Latvia
+2030,58.63,LVA,Latvia
+2031,59.0,LVA,Latvia
+2032,59.37,LVA,Latvia
+2033,59.75,LVA,Latvia
+2034,60.14,LVA,Latvia
+2035,60.54,LVA,Latvia
+2036,60.93,LVA,Latvia
+2037,61.32,LVA,Latvia
+2038,61.72,LVA,Latvia
+2039,62.12,LVA,Latvia
+2040,62.52,LVA,Latvia
+2024,5.71,MAC,"Macao SAR, China"
+2025,5.71,MAC,"Macao SAR, China"
+2026,5.71,MAC,"Macao SAR, China"
+2027,5.71,MAC,"Macao SAR, China"
+2028,5.71,MAC,"Macao SAR, China"
+2029,63.89,MAC,"Macao SAR, China"
+2030,64.3,MAC,"Macao SAR, China"
+2031,64.71,MAC,"Macao SAR, China"
+2032,65.11,MAC,"Macao SAR, China"
+2033,65.5,MAC,"Macao SAR, China"
+2034,65.89,MAC,"Macao SAR, China"
+2035,66.28,MAC,"Macao SAR, China"
+2036,66.66,MAC,"Macao SAR, China"
+2037,67.04,MAC,"Macao SAR, China"
+2038,67.41,MAC,"Macao SAR, China"
+2039,67.78,MAC,"Macao SAR, China"
+2040,68.14,MAC,"Macao SAR, China"
+2024,5.71,MAF,St. Martin (French part)
+2025,5.71,MAF,St. Martin (French part)
+2026,5.71,MAF,St. Martin (French part)
+2027,5.71,MAF,St. Martin (French part)
+2028,5.71,MAF,St. Martin (French part)
+2029,59.89,MAF,St. Martin (French part)
+2030,60.28,MAF,St. Martin (French part)
+2031,60.66,MAF,St. Martin (French part)
+2032,61.04,MAF,St. Martin (French part)
+2033,61.42,MAF,St. Martin (French part)
+2034,61.79,MAF,St. Martin (French part)
+2035,62.16,MAF,St. Martin (French part)
+2036,62.52,MAF,St. Martin (French part)
+2037,62.88,MAF,St. Martin (French part)
+2038,63.23,MAF,St. Martin (French part)
+2039,63.58,MAF,St. Martin (French part)
+2040,63.93,MAF,St. Martin (French part)
+2024,53.4,MAR,Morocco
+2025,55.04,MAR,Morocco
+2026,57.13,MAR,Morocco
+2027,59.84,MAR,Morocco
+2028,60.09,MAR,Morocco
+2029,60.42,MAR,Morocco
+2030,60.75,MAR,Morocco
+2031,61.09,MAR,Morocco
+2032,61.43,MAR,Morocco
+2033,61.79,MAR,Morocco
+2034,62.15,MAR,Morocco
+2035,62.51,MAR,Morocco
+2036,62.87,MAR,Morocco
+2037,63.23,MAR,Morocco
+2038,63.6,MAR,Morocco
+2039,63.97,MAR,Morocco
+2040,64.34,MAR,Morocco
+2024,5.71,MCO,Monaco
+2025,5.71,MCO,Monaco
+2026,5.71,MCO,Monaco
+2027,5.71,MCO,Monaco
+2028,5.71,MCO,Monaco
+2029,70.53,MCO,Monaco
+2030,70.83,MCO,Monaco
+2031,71.12,MCO,Monaco
+2032,71.41,MCO,Monaco
+2033,71.69,MCO,Monaco
+2034,71.95,MCO,Monaco
+2035,72.21,MCO,Monaco
+2036,72.46,MCO,Monaco
+2037,72.7,MCO,Monaco
+2038,72.93,MCO,Monaco
+2039,73.15,MCO,Monaco
+2040,73.37,MCO,Monaco
+2024,59.09,MDA,Moldova
+2025,58.79,MDA,Moldova
+2026,58.33,MDA,Moldova
+2027,58.22,MDA,Moldova
+2028,58.45,MDA,Moldova
+2029,58.78,MDA,Moldova
+2030,59.11,MDA,Moldova
+2031,59.45,MDA,Moldova
+2032,59.8,MDA,Moldova
+2033,60.15,MDA,Moldova
+2034,60.51,MDA,Moldova
+2035,60.87,MDA,Moldova
+2036,61.23,MDA,Moldova
+2037,61.59,MDA,Moldova
+2038,61.96,MDA,Moldova
+2039,62.33,MDA,Moldova
+2040,62.7,MDA,Moldova
+2024,86.82,MDG,Madagascar
+2025,84.76,MDG,Madagascar
+2026,80.68,MDG,Madagascar
+2027,73.79,MDG,Madagascar
+2028,61.02,MDG,Madagascar
+2029,61.35,MDG,Madagascar
+2030,61.68,MDG,Madagascar
+2031,62.02,MDG,Madagascar
+2032,62.36,MDG,Madagascar
+2033,62.72,MDG,Madagascar
+2034,63.07,MDG,Madagascar
+2035,63.43,MDG,Madagascar
+2036,63.79,MDG,Madagascar
+2037,64.16,MDG,Madagascar
+2038,64.52,MDG,Madagascar
+2039,64.89,MDG,Madagascar
+2040,65.26,MDG,Madagascar
+2024,5.71,MDV,Maldives
+2025,5.71,MDV,Maldives
+2026,5.71,MDV,Maldives
+2027,5.71,MDV,Maldives
+2028,5.71,MDV,Maldives
+2029,60.34,MDV,Maldives
+2030,60.74,MDV,Maldives
+2031,61.12,MDV,Maldives
+2032,61.51,MDV,Maldives
+2033,61.89,MDV,Maldives
+2034,62.26,MDV,Maldives
+2035,62.63,MDV,Maldives
+2036,63.0,MDV,Maldives
+2037,63.36,MDV,Maldives
+2038,63.72,MDV,Maldives
+2039,64.08,MDV,Maldives
+2040,64.43,MDV,Maldives
+2024,50.75,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2025,54.02,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2026,58.0,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2027,58.44,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2028,58.6,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2029,58.93,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2030,59.26,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2031,59.6,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2032,59.94,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2033,60.28,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2034,60.64,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2035,61.0,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2036,61.37,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2037,61.73,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2038,62.1,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2039,62.47,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2040,62.85,MEA,"Middle East, North Africa, Afghanistan & Pakistan"
+2024,52.21,MEX,Mexico
+2025,54.31,MEX,Mexico
+2026,56.26,MEX,Mexico
+2027,58.48,MEX,Mexico
+2028,58.72,MEX,Mexico
+2029,59.06,MEX,Mexico
+2030,59.4,MEX,Mexico
+2031,59.75,MEX,Mexico
+2032,60.09,MEX,Mexico
+2033,60.44,MEX,Mexico
+2034,60.8,MEX,Mexico
+2035,61.17,MEX,Mexico
+2036,61.54,MEX,Mexico
+2037,61.91,MEX,Mexico
+2038,62.28,MEX,Mexico
+2039,62.66,MEX,Mexico
+2040,63.04,MEX,Mexico
+2024,5.71,MHL,Marshall Islands
+2025,5.71,MHL,Marshall Islands
+2026,5.71,MHL,Marshall Islands
+2027,5.71,MHL,Marshall Islands
+2028,5.71,MHL,Marshall Islands
+2029,59.9,MHL,Marshall Islands
+2030,60.29,MHL,Marshall Islands
+2031,60.67,MHL,Marshall Islands
+2032,61.05,MHL,Marshall Islands
+2033,61.43,MHL,Marshall Islands
+2034,61.8,MHL,Marshall Islands
+2035,62.17,MHL,Marshall Islands
+2036,62.53,MHL,Marshall Islands
+2037,62.89,MHL,Marshall Islands
+2038,63.24,MHL,Marshall Islands
+2039,63.59,MHL,Marshall Islands
+2040,63.94,MHL,Marshall Islands
+2024,60.73,MIC,Middle income
+2025,60.31,MIC,Middle income
+2026,59.48,MIC,Middle income
+2027,59.52,MIC,Middle income
+2028,59.69,MIC,Middle income
+2029,60.04,MIC,Middle income
+2030,60.39,MIC,Middle income
+2031,60.75,MIC,Middle income
+2032,61.11,MIC,Middle income
+2033,61.47,MIC,Middle income
+2034,61.84,MIC,Middle income
+2035,62.21,MIC,Middle income
+2036,62.58,MIC,Middle income
+2037,62.95,MIC,Middle income
+2038,63.32,MIC,Middle income
+2039,63.7,MIC,Middle income
+2040,64.07,MIC,Middle income
+2024,55.23,MKD,North Macedonia
+2025,56.22,MKD,North Macedonia
+2026,56.37,MKD,North Macedonia
+2027,56.96,MKD,North Macedonia
+2028,57.34,MKD,North Macedonia
+2029,57.67,MKD,North Macedonia
+2030,58.0,MKD,North Macedonia
+2031,58.35,MKD,North Macedonia
+2032,58.71,MKD,North Macedonia
+2033,59.06,MKD,North Macedonia
+2034,59.42,MKD,North Macedonia
+2035,59.78,MKD,North Macedonia
+2036,60.15,MKD,North Macedonia
+2037,60.52,MKD,North Macedonia
+2038,60.88,MKD,North Macedonia
+2039,61.26,MKD,North Macedonia
+2040,61.63,MKD,North Macedonia
+2024,5.71,MLI,Mali
+2025,5.71,MLI,Mali
+2026,5.71,MLI,Mali
+2027,5.71,MLI,Mali
+2028,5.71,MLI,Mali
+2029,59.45,MLI,Mali
+2030,59.84,MLI,Mali
+2031,60.22,MLI,Mali
+2032,60.59,MLI,Mali
+2033,60.97,MLI,Mali
+2034,61.33,MLI,Mali
+2035,61.7,MLI,Mali
+2036,62.05,MLI,Mali
+2037,62.41,MLI,Mali
+2038,62.76,MLI,Mali
+2039,63.1,MLI,Mali
+2040,63.44,MLI,Mali
+2024,46.17,MLT,Malta
+2025,49.41,MLT,Malta
+2026,52.58,MLT,Malta
+2027,56.7,MLT,Malta
+2028,57.32,MLT,Malta
+2029,57.72,MLT,Malta
+2030,58.12,MLT,Malta
+2031,58.53,MLT,Malta
+2032,58.94,MLT,Malta
+2033,59.35,MLT,Malta
+2034,59.76,MLT,Malta
+2035,60.17,MLT,Malta
+2036,60.59,MLT,Malta
+2037,61.02,MLT,Malta
+2038,61.45,MLT,Malta
+2039,61.87,MLT,Malta
+2040,62.3,MLT,Malta
+2024,77.87,MMR,Myanmar
+2025,74.91,MMR,Myanmar
+2026,69.91,MMR,Myanmar
+2027,60.54,MMR,Myanmar
+2028,60.73,MMR,Myanmar
+2029,61.05,MMR,Myanmar
+2030,61.38,MMR,Myanmar
+2031,61.72,MMR,Myanmar
+2032,62.05,MMR,Myanmar
+2033,62.4,MMR,Myanmar
+2034,62.76,MMR,Myanmar
+2035,63.11,MMR,Myanmar
+2036,63.47,MMR,Myanmar
+2037,63.83,MMR,Myanmar
+2038,64.2,MMR,Myanmar
+2039,64.56,MMR,Myanmar
+2040,64.93,MMR,Myanmar
+2024,54.11,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2025,56.23,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2026,59.01,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2027,59.43,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2028,59.62,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2029,59.95,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2030,60.29,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2031,60.63,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2032,60.97,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2033,61.32,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2034,61.68,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2035,62.05,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2036,62.41,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2037,62.78,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2038,63.15,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2039,63.52,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2040,63.89,MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+2024,66.56,MNE,Montenegro
+2025,64.45,MNE,Montenegro
+2026,60.88,MNE,Montenegro
+2027,55.71,MNE,Montenegro
+2028,55.85,MNE,Montenegro
+2029,56.18,MNE,Montenegro
+2030,56.53,MNE,Montenegro
+2031,56.88,MNE,Montenegro
+2032,57.24,MNE,Montenegro
+2033,57.6,MNE,Montenegro
+2034,57.96,MNE,Montenegro
+2035,58.33,MNE,Montenegro
+2036,58.7,MNE,Montenegro
+2037,59.07,MNE,Montenegro
+2038,59.44,MNE,Montenegro
+2039,59.81,MNE,Montenegro
+2040,60.19,MNE,Montenegro
+2024,44.33,MNG,Mongolia
+2025,48.1,MNG,Mongolia
+2026,52.52,MNG,Mongolia
+2027,57.83,MNG,Mongolia
+2028,57.94,MNG,Mongolia
+2029,58.27,MNG,Mongolia
+2030,58.6,MNG,Mongolia
+2031,58.95,MNG,Mongolia
+2032,59.3,MNG,Mongolia
+2033,59.66,MNG,Mongolia
+2034,60.02,MNG,Mongolia
+2035,60.38,MNG,Mongolia
+2036,60.74,MNG,Mongolia
+2037,61.1,MNG,Mongolia
+2038,61.47,MNG,Mongolia
+2039,61.84,MNG,Mongolia
+2040,62.21,MNG,Mongolia
+2024,5.71,MNP,Northern Mariana Islands
+2025,5.71,MNP,Northern Mariana Islands
+2026,5.71,MNP,Northern Mariana Islands
+2027,5.71,MNP,Northern Mariana Islands
+2028,5.71,MNP,Northern Mariana Islands
+2029,59.89,MNP,Northern Mariana Islands
+2030,60.28,MNP,Northern Mariana Islands
+2031,60.66,MNP,Northern Mariana Islands
+2032,61.04,MNP,Northern Mariana Islands
+2033,61.42,MNP,Northern Mariana Islands
+2034,61.79,MNP,Northern Mariana Islands
+2035,62.16,MNP,Northern Mariana Islands
+2036,62.52,MNP,Northern Mariana Islands
+2037,62.88,MNP,Northern Mariana Islands
+2038,63.23,MNP,Northern Mariana Islands
+2039,63.58,MNP,Northern Mariana Islands
+2040,63.93,MNP,Northern Mariana Islands
+2024,83.25,MOZ,Mozambique
+2025,79.42,MOZ,Mozambique
+2026,72.38,MOZ,Mozambique
+2027,60.48,MOZ,Mozambique
+2028,60.67,MOZ,Mozambique
+2029,60.99,MOZ,Mozambique
+2030,61.32,MOZ,Mozambique
+2031,61.65,MOZ,Mozambique
+2032,61.98,MOZ,Mozambique
+2033,62.33,MOZ,Mozambique
+2034,62.68,MOZ,Mozambique
+2035,63.04,MOZ,Mozambique
+2036,63.4,MOZ,Mozambique
+2037,63.75,MOZ,Mozambique
+2038,64.12,MOZ,Mozambique
+2039,64.48,MOZ,Mozambique
+2040,64.84,MOZ,Mozambique
+2024,5.71,MRT,Mauritania
+2025,5.71,MRT,Mauritania
+2026,5.71,MRT,Mauritania
+2027,5.71,MRT,Mauritania
+2028,5.71,MRT,Mauritania
+2029,59.54,MRT,Mauritania
+2030,59.92,MRT,Mauritania
+2031,60.3,MRT,Mauritania
+2032,60.68,MRT,Mauritania
+2033,61.05,MRT,Mauritania
+2034,61.42,MRT,Mauritania
+2035,61.78,MRT,Mauritania
+2036,62.14,MRT,Mauritania
+2037,62.5,MRT,Mauritania
+2038,62.85,MRT,Mauritania
+2039,63.19,MRT,Mauritania
+2040,63.54,MRT,Mauritania
+2024,50.25,MUS,Mauritius
+2025,52.39,MUS,Mauritius
+2026,54.95,MUS,Mauritius
+2027,58.46,MUS,Mauritius
+2028,58.65,MUS,Mauritius
+2029,59.0,MUS,Mauritius
+2030,59.34,MUS,Mauritius
+2031,59.69,MUS,Mauritius
+2032,60.05,MUS,Mauritius
+2033,60.42,MUS,Mauritius
+2034,60.79,MUS,Mauritius
+2035,61.16,MUS,Mauritius
+2036,61.54,MUS,Mauritius
+2037,61.92,MUS,Mauritius
+2038,62.29,MUS,Mauritius
+2039,62.67,MUS,Mauritius
+2040,63.06,MUS,Mauritius
+2024,5.71,MWI,Malawi
+2025,5.71,MWI,Malawi
+2026,5.71,MWI,Malawi
+2027,5.71,MWI,Malawi
+2028,5.71,MWI,Malawi
+2029,59.42,MWI,Malawi
+2030,59.8,MWI,Malawi
+2031,60.18,MWI,Malawi
+2032,60.56,MWI,Malawi
+2033,60.93,MWI,Malawi
+2034,61.3,MWI,Malawi
+2035,61.66,MWI,Malawi
+2036,62.02,MWI,Malawi
+2037,62.37,MWI,Malawi
+2038,62.72,MWI,Malawi
+2039,63.07,MWI,Malawi
+2040,63.41,MWI,Malawi
+2024,43.45,MYS,Malaysia
+2025,46.9,MYS,Malaysia
+2026,50.56,MYS,Malaysia
+2027,54.79,MYS,Malaysia
+2028,55.05,MYS,Malaysia
+2029,55.39,MYS,Malaysia
+2030,55.73,MYS,Malaysia
+2031,56.08,MYS,Malaysia
+2032,56.43,MYS,Malaysia
+2033,56.79,MYS,Malaysia
+2034,57.14,MYS,Malaysia
+2035,57.5,MYS,Malaysia
+2036,57.87,MYS,Malaysia
+2037,58.23,MYS,Malaysia
+2038,58.6,MYS,Malaysia
+2039,58.97,MYS,Malaysia
+2040,59.34,MYS,Malaysia
+2024,40.85,NAC,North America
+2025,44.31,NAC,North America
+2026,47.96,NAC,North America
+2027,48.28,NAC,North America
+2028,48.91,NAC,North America
+2029,49.33,NAC,North America
+2030,49.76,NAC,North America
+2031,50.19,NAC,North America
+2032,50.62,NAC,North America
+2033,51.06,NAC,North America
+2034,51.49,NAC,North America
+2035,51.93,NAC,North America
+2036,52.36,NAC,North America
+2037,52.8,NAC,North America
+2038,53.24,NAC,North America
+2039,53.66,NAC,North America
+2040,54.06,NAC,North America
+2024,65.2,NAM,Namibia
+2025,64.09,NAM,Namibia
+2026,62.11,NAM,Namibia
+2027,59.66,NAM,Namibia
+2028,59.83,NAM,Namibia
+2029,60.16,NAM,Namibia
+2030,60.49,NAM,Namibia
+2031,60.82,NAM,Namibia
+2032,61.16,NAM,Namibia
+2033,61.51,NAM,Namibia
+2034,61.86,NAM,Namibia
+2035,62.22,NAM,Namibia
+2036,62.58,NAM,Namibia
+2037,62.94,NAM,Namibia
+2038,63.3,NAM,Namibia
+2039,63.67,NAM,Namibia
+2040,64.04,NAM,Namibia
+2024,5.71,NCL,New Caledonia
+2025,5.71,NCL,New Caledonia
+2026,5.71,NCL,New Caledonia
+2027,5.71,NCL,New Caledonia
+2028,5.71,NCL,New Caledonia
+2029,61.84,NCL,New Caledonia
+2030,62.25,NCL,New Caledonia
+2031,62.65,NCL,New Caledonia
+2032,63.04,NCL,New Caledonia
+2033,63.43,NCL,New Caledonia
+2034,63.82,NCL,New Caledonia
+2035,64.2,NCL,New Caledonia
+2036,64.57,NCL,New Caledonia
+2037,64.95,NCL,New Caledonia
+2038,65.31,NCL,New Caledonia
+2039,65.68,NCL,New Caledonia
+2040,66.04,NCL,New Caledonia
+2024,83.83,NER,Niger
+2025,79.92,NER,Niger
+2026,72.93,NER,Niger
+2027,60.77,NER,Niger
+2028,61.09,NER,Niger
+2029,61.41,NER,Niger
+2030,61.74,NER,Niger
+2031,62.06,NER,Niger
+2032,62.4,NER,Niger
+2033,62.73,NER,Niger
+2034,63.08,NER,Niger
+2035,63.44,NER,Niger
+2036,63.79,NER,Niger
+2037,64.15,NER,Niger
+2038,64.51,NER,Niger
+2039,64.87,NER,Niger
+2040,65.24,NER,Niger
+2024,83.98,NGA,Nigeria
+2025,80.15,NGA,Nigeria
+2026,73.24,NGA,Nigeria
+2027,60.93,NGA,Nigeria
+2028,61.11,NGA,Nigeria
+2029,61.43,NGA,Nigeria
+2030,61.76,NGA,Nigeria
+2031,62.09,NGA,Nigeria
+2032,62.42,NGA,Nigeria
+2033,62.76,NGA,Nigeria
+2034,63.1,NGA,Nigeria
+2035,63.45,NGA,Nigeria
+2036,63.81,NGA,Nigeria
+2037,64.17,NGA,Nigeria
+2038,64.53,NGA,Nigeria
+2039,64.9,NGA,Nigeria
+2040,65.26,NGA,Nigeria
+2024,74.74,NIC,Nicaragua
+2025,72.01,NIC,Nicaragua
+2026,67.27,NIC,Nicaragua
+2027,60.28,NIC,Nicaragua
+2028,60.47,NIC,Nicaragua
+2029,60.8,NIC,Nicaragua
+2030,61.13,NIC,Nicaragua
+2031,61.46,NIC,Nicaragua
+2032,61.8,NIC,Nicaragua
+2033,62.15,NIC,Nicaragua
+2034,62.51,NIC,Nicaragua
+2035,62.87,NIC,Nicaragua
+2036,63.23,NIC,Nicaragua
+2037,63.59,NIC,Nicaragua
+2038,63.95,NIC,Nicaragua
+2039,64.32,NIC,Nicaragua
+2040,64.69,NIC,Nicaragua
+2024,46.6,NLD,Netherlands
+2025,50.07,NLD,Netherlands
+2026,53.44,NLD,Netherlands
+2027,56.76,NLD,Netherlands
+2028,57.4,NLD,Netherlands
+2029,57.84,NLD,Netherlands
+2030,58.28,NLD,Netherlands
+2031,58.72,NLD,Netherlands
+2032,59.16,NLD,Netherlands
+2033,59.6,NLD,Netherlands
+2034,60.04,NLD,Netherlands
+2035,60.49,NLD,Netherlands
+2036,60.93,NLD,Netherlands
+2037,61.37,NLD,Netherlands
+2038,61.82,NLD,Netherlands
+2039,62.26,NLD,Netherlands
+2040,62.7,NLD,Netherlands
+2024,66.15,NOR,Norway
+2025,59.85,NOR,Norway
+2026,49.62,NOR,Norway
+2027,31.38,NOR,Norway
+2028,30.98,NOR,Norway
+2029,31.41,NOR,Norway
+2030,31.83,NOR,Norway
+2031,32.26,NOR,Norway
+2032,32.69,NOR,Norway
+2033,33.12,NOR,Norway
+2034,33.56,NOR,Norway
+2035,33.98,NOR,Norway
+2036,34.39,NOR,Norway
+2037,34.77,NOR,Norway
+2038,35.11,NOR,Norway
+2039,35.39,NOR,Norway
+2040,35.65,NOR,Norway
+2024,82.55,NPL,Nepal
+2025,78.19,NPL,Nepal
+2026,71.91,NPL,Nepal
+2027,60.59,NPL,Nepal
+2028,60.76,NPL,Nepal
+2029,61.08,NPL,Nepal
+2030,61.41,NPL,Nepal
+2031,61.75,NPL,Nepal
+2032,62.08,NPL,Nepal
+2033,62.43,NPL,Nepal
+2034,62.79,NPL,Nepal
+2035,63.15,NPL,Nepal
+2036,63.5,NPL,Nepal
+2037,63.87,NPL,Nepal
+2038,64.23,NPL,Nepal
+2039,64.59,NPL,Nepal
+2040,64.96,NPL,Nepal
+2024,5.71,NRU,Nauru
+2025,5.71,NRU,Nauru
+2026,5.71,NRU,Nauru
+2027,5.71,NRU,Nauru
+2028,5.71,NRU,Nauru
+2029,60.35,NRU,Nauru
+2030,60.75,NRU,Nauru
+2031,61.14,NRU,Nauru
+2032,61.52,NRU,Nauru
+2033,61.9,NRU,Nauru
+2034,62.28,NRU,Nauru
+2035,62.65,NRU,Nauru
+2036,63.01,NRU,Nauru
+2037,63.38,NRU,Nauru
+2038,63.74,NRU,Nauru
+2039,64.09,NRU,Nauru
+2040,64.44,NRU,Nauru
+2024,58.77,NZL,New Zealand
+2025,57.85,NZL,New Zealand
+2026,56.03,NZL,New Zealand
+2027,53.29,NZL,New Zealand
+2028,53.65,NZL,New Zealand
+2029,54.06,NZL,New Zealand
+2030,54.47,NZL,New Zealand
+2031,54.89,NZL,New Zealand
+2032,55.3,NZL,New Zealand
+2033,55.72,NZL,New Zealand
+2034,56.14,NZL,New Zealand
+2035,56.57,NZL,New Zealand
+2036,57.0,NZL,New Zealand
+2037,57.44,NZL,New Zealand
+2038,57.87,NZL,New Zealand
+2039,58.3,NZL,New Zealand
+2040,58.74,NZL,New Zealand
+2024,49.92,OED,OECD members
+2025,52.02,OED,OECD members
+2026,54.08,OED,OECD members
+2027,54.41,OED,OECD members
+2028,54.88,OED,OECD members
+2029,55.31,OED,OECD members
+2030,55.73,OED,OECD members
+2031,56.16,OED,OECD members
+2032,56.59,OED,OECD members
+2033,57.02,OED,OECD members
+2034,57.45,OED,OECD members
+2035,57.88,OED,OECD members
+2036,58.32,OED,OECD members
+2037,58.76,OED,OECD members
+2038,59.2,OED,OECD members
+2039,59.65,OED,OECD members
+2040,60.09,OED,OECD members
+2024,29.14,OMN,Oman
+2025,34.87,OMN,Oman
+2026,42.13,OMN,Oman
+2027,50.68,OMN,Oman
+2028,51.08,OMN,Oman
+2029,51.42,OMN,Oman
+2030,51.77,OMN,Oman
+2031,52.12,OMN,Oman
+2032,52.48,OMN,Oman
+2033,52.83,OMN,Oman
+2034,53.2,OMN,Oman
+2035,53.56,OMN,Oman
+2036,53.93,OMN,Oman
+2037,54.3,OMN,Oman
+2038,54.67,OMN,Oman
+2039,55.04,OMN,Oman
+2040,55.42,OMN,Oman
+2024,5.71,OSS,Other small states
+2025,5.71,OSS,Other small states
+2026,5.71,OSS,Other small states
+2027,5.71,OSS,Other small states
+2028,5.71,OSS,Other small states
+2029,60.55,OSS,Other small states
+2030,60.95,OSS,Other small states
+2031,61.34,OSS,Other small states
+2032,61.72,OSS,Other small states
+2033,62.1,OSS,Other small states
+2034,62.48,OSS,Other small states
+2035,62.85,OSS,Other small states
+2036,63.22,OSS,Other small states
+2037,63.59,OSS,Other small states
+2038,63.95,OSS,Other small states
+2039,64.3,OSS,Other small states
+2040,64.65,OSS,Other small states
+2024,70.61,PAK,Pakistan
+2025,67.75,PAK,Pakistan
+2026,64.39,PAK,Pakistan
+2027,59.75,PAK,Pakistan
+2028,60.57,PAK,Pakistan
+2029,60.9,PAK,Pakistan
+2030,61.22,PAK,Pakistan
+2031,61.56,PAK,Pakistan
+2032,61.89,PAK,Pakistan
+2033,62.23,PAK,Pakistan
+2034,62.58,PAK,Pakistan
+2035,62.94,PAK,Pakistan
+2036,63.3,PAK,Pakistan
+2037,63.66,PAK,Pakistan
+2038,64.02,PAK,Pakistan
+2039,64.38,PAK,Pakistan
+2040,64.75,PAK,Pakistan
+2024,61.29,PAN,Panama
+2025,62.51,PAN,Panama
+2026,60.77,PAN,Panama
+2027,58.68,PAN,Panama
+2028,58.83,PAN,Panama
+2029,59.19,PAN,Panama
+2030,59.55,PAN,Panama
+2031,59.92,PAN,Panama
+2032,60.28,PAN,Panama
+2033,60.66,PAN,Panama
+2034,61.04,PAN,Panama
+2035,61.43,PAN,Panama
+2036,61.82,PAN,Panama
+2037,62.21,PAN,Panama
+2038,62.6,PAN,Panama
+2039,62.99,PAN,Panama
+2040,63.38,PAN,Panama
+2024,64.64,PER,Peru
+2025,64.22,PER,Peru
+2026,62.05,PER,Peru
+2027,59.41,PER,Peru
+2028,59.6,PER,Peru
+2029,59.93,PER,Peru
+2030,60.27,PER,Peru
+2031,60.61,PER,Peru
+2032,60.95,PER,Peru
+2033,61.31,PER,Peru
+2034,61.67,PER,Peru
+2035,62.03,PER,Peru
+2036,62.4,PER,Peru
+2037,62.77,PER,Peru
+2038,63.14,PER,Peru
+2039,63.51,PER,Peru
+2040,63.88,PER,Peru
+2024,64.26,PHL,Philippines
+2025,63.61,PHL,Philippines
+2026,61.92,PHL,Philippines
+2027,60.01,PHL,Philippines
+2028,60.21,PHL,Philippines
+2029,60.54,PHL,Philippines
+2030,60.87,PHL,Philippines
+2031,61.2,PHL,Philippines
+2032,61.54,PHL,Philippines
+2033,61.88,PHL,Philippines
+2034,62.23,PHL,Philippines
+2035,62.59,PHL,Philippines
+2036,62.95,PHL,Philippines
+2037,63.31,PHL,Philippines
+2038,63.68,PHL,Philippines
+2039,64.04,PHL,Philippines
+2040,64.41,PHL,Philippines
+2024,5.71,PLW,Palau
+2025,5.71,PLW,Palau
+2026,5.71,PLW,Palau
+2027,5.71,PLW,Palau
+2028,5.71,PLW,Palau
+2029,60.57,PLW,Palau
+2030,60.96,PLW,Palau
+2031,61.35,PLW,Palau
+2032,61.74,PLW,Palau
+2033,62.12,PLW,Palau
+2034,62.5,PLW,Palau
+2035,62.87,PLW,Palau
+2036,63.24,PLW,Palau
+2037,63.6,PLW,Palau
+2038,63.96,PLW,Palau
+2039,64.32,PLW,Palau
+2040,64.67,PLW,Palau
+2024,5.71,PNG,Papua New Guinea
+2025,5.71,PNG,Papua New Guinea
+2026,5.71,PNG,Papua New Guinea
+2027,5.71,PNG,Papua New Guinea
+2028,5.71,PNG,Papua New Guinea
+2029,59.6,PNG,Papua New Guinea
+2030,59.99,PNG,Papua New Guinea
+2031,60.37,PNG,Papua New Guinea
+2032,60.75,PNG,Papua New Guinea
+2033,61.12,PNG,Papua New Guinea
+2034,61.49,PNG,Papua New Guinea
+2035,61.85,PNG,Papua New Guinea
+2036,62.21,PNG,Papua New Guinea
+2037,62.57,PNG,Papua New Guinea
+2038,62.92,PNG,Papua New Guinea
+2039,63.27,PNG,Papua New Guinea
+2040,63.61,PNG,Papua New Guinea
+2024,52.63,POL,Poland
+2025,53.54,POL,Poland
+2026,54.56,POL,Poland
+2027,56.44,POL,Poland
+2028,56.84,POL,Poland
+2029,57.19,POL,Poland
+2030,57.55,POL,Poland
+2031,57.91,POL,Poland
+2032,58.27,POL,Poland
+2033,58.64,POL,Poland
+2034,59.02,POL,Poland
+2035,59.4,POL,Poland
+2036,59.79,POL,Poland
+2037,60.17,POL,Poland
+2038,60.56,POL,Poland
+2039,60.95,POL,Poland
+2040,61.34,POL,Poland
+2024,77.98,PRE,Pre-demographic dividend
+2025,71.9,PRE,Pre-demographic dividend
+2026,60.71,PRE,Pre-demographic dividend
+2027,60.81,PRE,Pre-demographic dividend
+2028,61.0,PRE,Pre-demographic dividend
+2029,61.33,PRE,Pre-demographic dividend
+2030,61.66,PRE,Pre-demographic dividend
+2031,61.99,PRE,Pre-demographic dividend
+2032,62.32,PRE,Pre-demographic dividend
+2033,62.66,PRE,Pre-demographic dividend
+2034,63.0,PRE,Pre-demographic dividend
+2035,63.35,PRE,Pre-demographic dividend
+2036,63.7,PRE,Pre-demographic dividend
+2037,64.07,PRE,Pre-demographic dividend
+2038,64.43,PRE,Pre-demographic dividend
+2039,64.8,PRE,Pre-demographic dividend
+2040,65.16,PRE,Pre-demographic dividend
+2024,5.71,PRI,Puerto Rico (US)
+2025,5.71,PRI,Puerto Rico (US)
+2026,5.71,PRI,Puerto Rico (US)
+2027,5.71,PRI,Puerto Rico (US)
+2028,5.71,PRI,Puerto Rico (US)
+2029,62.06,PRI,Puerto Rico (US)
+2030,62.47,PRI,Puerto Rico (US)
+2031,62.87,PRI,Puerto Rico (US)
+2032,63.26,PRI,Puerto Rico (US)
+2033,63.65,PRI,Puerto Rico (US)
+2034,64.04,PRI,Puerto Rico (US)
+2035,64.42,PRI,Puerto Rico (US)
+2036,64.8,PRI,Puerto Rico (US)
+2037,65.17,PRI,Puerto Rico (US)
+2038,65.54,PRI,Puerto Rico (US)
+2039,65.91,PRI,Puerto Rico (US)
+2040,66.27,PRI,Puerto Rico (US)
+2024,5.71,PRK,"Korea, Dem. People's Rep."
+2025,5.71,PRK,"Korea, Dem. People's Rep."
+2026,5.71,PRK,"Korea, Dem. People's Rep."
+2027,5.71,PRK,"Korea, Dem. People's Rep."
+2028,5.71,PRK,"Korea, Dem. People's Rep."
+2029,61.9,PRK,"Korea, Dem. People's Rep."
+2030,62.29,PRK,"Korea, Dem. People's Rep."
+2031,62.68,PRK,"Korea, Dem. People's Rep."
+2032,63.06,PRK,"Korea, Dem. People's Rep."
+2033,63.44,PRK,"Korea, Dem. People's Rep."
+2034,63.82,PRK,"Korea, Dem. People's Rep."
+2035,64.19,PRK,"Korea, Dem. People's Rep."
+2036,64.55,PRK,"Korea, Dem. People's Rep."
+2037,64.91,PRK,"Korea, Dem. People's Rep."
+2038,65.27,PRK,"Korea, Dem. People's Rep."
+2039,65.63,PRK,"Korea, Dem. People's Rep."
+2040,65.98,PRK,"Korea, Dem. People's Rep."
+2024,62.26,PRT,Portugal
+2025,61.61,PRT,Portugal
+2026,59.4,PRT,Portugal
+2027,55.85,PRT,Portugal
+2028,56.14,PRT,Portugal
+2029,56.52,PRT,Portugal
+2030,56.89,PRT,Portugal
+2031,57.27,PRT,Portugal
+2032,57.66,PRT,Portugal
+2033,58.05,PRT,Portugal
+2034,58.45,PRT,Portugal
+2035,58.85,PRT,Portugal
+2036,59.25,PRT,Portugal
+2037,59.65,PRT,Portugal
+2038,60.05,PRT,Portugal
+2039,60.46,PRT,Portugal
+2040,60.87,PRT,Portugal
+2024,77.27,PRY,Paraguay
+2025,73.74,PRY,Paraguay
+2026,67.69,PRY,Paraguay
+2027,58.32,PRY,Paraguay
+2028,58.42,PRY,Paraguay
+2029,58.76,PRY,Paraguay
+2030,59.09,PRY,Paraguay
+2031,59.44,PRY,Paraguay
+2032,59.79,PRY,Paraguay
+2033,60.15,PRY,Paraguay
+2034,60.51,PRY,Paraguay
+2035,60.87,PRY,Paraguay
+2036,61.24,PRY,Paraguay
+2037,61.61,PRY,Paraguay
+2038,61.98,PRY,Paraguay
+2039,62.35,PRY,Paraguay
+2040,62.72,PRY,Paraguay
+2024,5.71,PSE,West Bank and Gaza
+2025,5.71,PSE,West Bank and Gaza
+2026,5.71,PSE,West Bank and Gaza
+2027,5.71,PSE,West Bank and Gaza
+2028,5.71,PSE,West Bank and Gaza
+2029,59.64,PSE,West Bank and Gaza
+2030,60.03,PSE,West Bank and Gaza
+2031,60.41,PSE,West Bank and Gaza
+2032,60.79,PSE,West Bank and Gaza
+2033,61.16,PSE,West Bank and Gaza
+2034,61.53,PSE,West Bank and Gaza
+2035,61.89,PSE,West Bank and Gaza
+2036,62.25,PSE,West Bank and Gaza
+2037,62.61,PSE,West Bank and Gaza
+2038,62.96,PSE,West Bank and Gaza
+2039,63.31,PSE,West Bank and Gaza
+2040,63.65,PSE,West Bank and Gaza
+2024,5.71,PSS,Pacific island small states
+2025,5.71,PSS,Pacific island small states
+2026,5.71,PSS,Pacific island small states
+2027,5.71,PSS,Pacific island small states
+2028,5.71,PSS,Pacific island small states
+2029,59.7,PSS,Pacific island small states
+2030,60.08,PSS,Pacific island small states
+2031,60.47,PSS,Pacific island small states
+2032,60.84,PSS,Pacific island small states
+2033,61.22,PSS,Pacific island small states
+2034,61.59,PSS,Pacific island small states
+2035,61.95,PSS,Pacific island small states
+2036,62.31,PSS,Pacific island small states
+2037,62.67,PSS,Pacific island small states
+2038,63.02,PSS,Pacific island small states
+2039,63.37,PSS,Pacific island small states
+2040,63.72,PSS,Pacific island small states
+2024,48.22,PST,Post-demographic dividend
+2025,50.63,PST,Post-demographic dividend
+2026,52.93,PST,Post-demographic dividend
+2027,53.27,PST,Post-demographic dividend
+2028,53.79,PST,Post-demographic dividend
+2029,54.22,PST,Post-demographic dividend
+2030,54.65,PST,Post-demographic dividend
+2031,55.08,PST,Post-demographic dividend
+2032,55.52,PST,Post-demographic dividend
+2033,55.95,PST,Post-demographic dividend
+2034,56.39,PST,Post-demographic dividend
+2035,56.83,PST,Post-demographic dividend
+2036,57.27,PST,Post-demographic dividend
+2037,57.71,PST,Post-demographic dividend
+2038,58.15,PST,Post-demographic dividend
+2039,58.6,PST,Post-demographic dividend
+2040,59.05,PST,Post-demographic dividend
+2024,5.71,PYF,French Polynesia
+2025,5.71,PYF,French Polynesia
+2026,5.71,PYF,French Polynesia
+2027,5.71,PYF,French Polynesia
+2028,5.71,PYF,French Polynesia
+2029,61.02,PYF,French Polynesia
+2030,61.42,PYF,French Polynesia
+2031,61.81,PYF,French Polynesia
+2032,62.2,PYF,French Polynesia
+2033,62.59,PYF,French Polynesia
+2034,62.97,PYF,French Polynesia
+2035,63.34,PYF,French Polynesia
+2036,63.72,PYF,French Polynesia
+2037,64.08,PYF,French Polynesia
+2038,64.45,PYF,French Polynesia
+2039,64.81,PYF,French Polynesia
+2040,65.16,PYF,French Polynesia
+2024,5.78,QAT,Qatar
+2025,12.43,QAT,Qatar
+2026,22.05,QAT,Qatar
+2027,35.42,QAT,Qatar
+2028,36.89,QAT,Qatar
+2029,37.29,QAT,Qatar
+2030,37.69,QAT,Qatar
+2031,38.09,QAT,Qatar
+2032,38.49,QAT,Qatar
+2033,38.9,QAT,Qatar
+2034,39.36,QAT,Qatar
+2035,39.83,QAT,Qatar
+2036,40.29,QAT,Qatar
+2037,40.72,QAT,Qatar
+2038,41.11,QAT,Qatar
+2039,41.45,QAT,Qatar
+2040,41.76,QAT,Qatar
+2024,60.28,ROU,Romania
+2025,59.95,ROU,Romania
+2026,59.24,ROU,Romania
+2027,58.61,ROU,Romania
+2028,58.98,ROU,Romania
+2029,59.33,ROU,Romania
+2030,59.69,ROU,Romania
+2031,60.05,ROU,Romania
+2032,60.41,ROU,Romania
+2033,60.78,ROU,Romania
+2034,61.16,ROU,Romania
+2035,61.54,ROU,Romania
+2036,61.93,ROU,Romania
+2037,62.31,ROU,Romania
+2038,62.7,ROU,Romania
+2039,63.09,ROU,Romania
+2040,63.48,ROU,Romania
+2024,36.01,RUS,Russian Federation
+2025,40.4,RUS,Russian Federation
+2026,45.62,RUS,Russian Federation
+2027,51.98,RUS,Russian Federation
+2028,52.06,RUS,Russian Federation
+2029,52.38,RUS,Russian Federation
+2030,52.71,RUS,Russian Federation
+2031,53.04,RUS,Russian Federation
+2032,53.37,RUS,Russian Federation
+2033,53.71,RUS,Russian Federation
+2034,54.05,RUS,Russian Federation
+2035,54.4,RUS,Russian Federation
+2036,54.74,RUS,Russian Federation
+2037,55.09,RUS,Russian Federation
+2038,55.45,RUS,Russian Federation
+2039,55.8,RUS,Russian Federation
+2040,56.16,RUS,Russian Federation
+2024,86.21,RWA,Rwanda
+2025,83.91,RWA,Rwanda
+2026,79.82,RWA,Rwanda
+2027,73.26,RWA,Rwanda
+2028,61.09,RWA,Rwanda
+2029,61.42,RWA,Rwanda
+2030,61.74,RWA,Rwanda
+2031,62.07,RWA,Rwanda
+2032,62.41,RWA,Rwanda
+2033,62.75,RWA,Rwanda
+2034,63.1,RWA,Rwanda
+2035,63.46,RWA,Rwanda
+2036,63.81,RWA,Rwanda
+2037,64.17,RWA,Rwanda
+2038,64.53,RWA,Rwanda
+2039,64.9,RWA,Rwanda
+2040,65.26,RWA,Rwanda
+2024,66.2,SAS,South Asia
+2025,63.95,SAS,South Asia
+2026,59.86,SAS,South Asia
+2027,59.96,SAS,South Asia
+2028,60.12,SAS,South Asia
+2029,60.44,SAS,South Asia
+2030,60.77,SAS,South Asia
+2031,61.1,SAS,South Asia
+2032,61.43,SAS,South Asia
+2033,61.77,SAS,South Asia
+2034,62.11,SAS,South Asia
+2035,62.45,SAS,South Asia
+2036,62.8,SAS,South Asia
+2037,63.15,SAS,South Asia
+2038,63.51,SAS,South Asia
+2039,63.88,SAS,South Asia
+2040,64.24,SAS,South Asia
+2024,11.12,SAU,Saudi Arabia
+2025,19.71,SAU,Saudi Arabia
+2026,30.21,SAU,Saudi Arabia
+2027,43.01,SAU,Saudi Arabia
+2028,46.23,SAU,Saudi Arabia
+2029,46.59,SAU,Saudi Arabia
+2030,46.95,SAU,Saudi Arabia
+2031,47.31,SAU,Saudi Arabia
+2032,47.68,SAU,Saudi Arabia
+2033,48.05,SAU,Saudi Arabia
+2034,48.42,SAU,Saudi Arabia
+2035,48.8,SAU,Saudi Arabia
+2036,49.18,SAU,Saudi Arabia
+2037,49.56,SAU,Saudi Arabia
+2038,49.94,SAU,Saudi Arabia
+2039,50.32,SAU,Saudi Arabia
+2040,50.71,SAU,Saudi Arabia
+2024,75.77,SDN,Sudan
+2025,72.97,SDN,Sudan
+2026,67.72,SDN,Sudan
+2027,59.42,SDN,Sudan
+2028,60.91,SDN,Sudan
+2029,61.23,SDN,Sudan
+2030,61.56,SDN,Sudan
+2031,61.88,SDN,Sudan
+2032,62.22,SDN,Sudan
+2033,62.55,SDN,Sudan
+2034,62.9,SDN,Sudan
+2035,63.25,SDN,Sudan
+2036,63.61,SDN,Sudan
+2037,63.97,SDN,Sudan
+2038,64.33,SDN,Sudan
+2039,64.69,SDN,Sudan
+2040,65.05,SDN,Sudan
+2024,69.1,SEN,Senegal
+2025,67.42,SEN,Senegal
+2026,64.17,SEN,Senegal
+2027,60.51,SEN,Senegal
+2028,60.71,SEN,Senegal
+2029,61.03,SEN,Senegal
+2030,61.36,SEN,Senegal
+2031,61.69,SEN,Senegal
+2032,62.03,SEN,Senegal
+2033,62.38,SEN,Senegal
+2034,62.73,SEN,Senegal
+2035,63.09,SEN,Senegal
+2036,63.45,SEN,Senegal
+2037,63.81,SEN,Senegal
+2038,64.18,SEN,Senegal
+2039,64.54,SEN,Senegal
+2040,64.91,SEN,Senegal
+2024,31.79,SGP,Singapore
+2025,37.59,SGP,Singapore
+2026,45.22,SGP,Singapore
+2027,53.76,SGP,Singapore
+2028,54.28,SGP,Singapore
+2029,54.75,SGP,Singapore
+2030,55.23,SGP,Singapore
+2031,55.71,SGP,Singapore
+2032,56.19,SGP,Singapore
+2033,56.64,SGP,Singapore
+2034,57.05,SGP,Singapore
+2035,57.43,SGP,Singapore
+2036,57.81,SGP,Singapore
+2037,58.18,SGP,Singapore
+2038,58.55,SGP,Singapore
+2039,58.91,SGP,Singapore
+2040,59.27,SGP,Singapore
+2024,5.71,SLB,Solomon Islands
+2025,5.71,SLB,Solomon Islands
+2026,5.71,SLB,Solomon Islands
+2027,5.71,SLB,Solomon Islands
+2028,5.71,SLB,Solomon Islands
+2029,59.51,SLB,Solomon Islands
+2030,59.9,SLB,Solomon Islands
+2031,60.28,SLB,Solomon Islands
+2032,60.66,SLB,Solomon Islands
+2033,61.03,SLB,Solomon Islands
+2034,61.4,SLB,Solomon Islands
+2035,61.76,SLB,Solomon Islands
+2036,62.12,SLB,Solomon Islands
+2037,62.47,SLB,Solomon Islands
+2038,62.82,SLB,Solomon Islands
+2039,63.17,SLB,Solomon Islands
+2040,63.51,SLB,Solomon Islands
+2024,5.71,SLE,Sierra Leone
+2025,5.71,SLE,Sierra Leone
+2026,5.71,SLE,Sierra Leone
+2027,5.71,SLE,Sierra Leone
+2028,5.71,SLE,Sierra Leone
+2029,59.43,SLE,Sierra Leone
+2030,59.81,SLE,Sierra Leone
+2031,60.19,SLE,Sierra Leone
+2032,60.57,SLE,Sierra Leone
+2033,60.94,SLE,Sierra Leone
+2034,61.31,SLE,Sierra Leone
+2035,61.67,SLE,Sierra Leone
+2036,62.03,SLE,Sierra Leone
+2037,62.38,SLE,Sierra Leone
+2038,62.73,SLE,Sierra Leone
+2039,63.07,SLE,Sierra Leone
+2040,63.42,SLE,Sierra Leone
+2024,60.46,SLV,El Salvador
+2025,60.99,SLV,El Salvador
+2026,60.19,SLV,El Salvador
+2027,59.83,SLV,El Salvador
+2028,60.03,SLV,El Salvador
+2029,60.36,SLV,El Salvador
+2030,60.69,SLV,El Salvador
+2031,61.02,SLV,El Salvador
+2032,61.36,SLV,El Salvador
+2033,61.71,SLV,El Salvador
+2034,62.07,SLV,El Salvador
+2035,62.43,SLV,El Salvador
+2036,62.79,SLV,El Salvador
+2037,63.16,SLV,El Salvador
+2038,63.52,SLV,El Salvador
+2039,63.89,SLV,El Salvador
+2040,64.26,SLV,El Salvador
+2024,5.71,SMR,San Marino
+2025,5.71,SMR,San Marino
+2026,5.71,SMR,San Marino
+2027,5.71,SMR,San Marino
+2028,5.71,SMR,San Marino
+2029,63.47,SMR,San Marino
+2030,63.88,SMR,San Marino
+2031,64.28,SMR,San Marino
+2032,64.68,SMR,San Marino
+2033,65.08,SMR,San Marino
+2034,65.46,SMR,San Marino
+2035,65.85,SMR,San Marino
+2036,66.23,SMR,San Marino
+2037,66.6,SMR,San Marino
+2038,66.97,SMR,San Marino
+2039,67.34,SMR,San Marino
+2040,67.7,SMR,San Marino
+2024,5.71,SOM,"Somalia, Fed. Rep."
+2025,5.71,SOM,"Somalia, Fed. Rep."
+2026,5.71,SOM,"Somalia, Fed. Rep."
+2027,5.71,SOM,"Somalia, Fed. Rep."
+2028,5.71,SOM,"Somalia, Fed. Rep."
+2029,59.42,SOM,"Somalia, Fed. Rep."
+2030,59.8,SOM,"Somalia, Fed. Rep."
+2031,60.18,SOM,"Somalia, Fed. Rep."
+2032,60.56,SOM,"Somalia, Fed. Rep."
+2033,60.93,SOM,"Somalia, Fed. Rep."
+2034,61.29,SOM,"Somalia, Fed. Rep."
+2035,61.66,SOM,"Somalia, Fed. Rep."
+2036,62.01,SOM,"Somalia, Fed. Rep."
+2037,62.37,SOM,"Somalia, Fed. Rep."
+2038,62.72,SOM,"Somalia, Fed. Rep."
+2039,63.06,SOM,"Somalia, Fed. Rep."
+2040,63.4,SOM,"Somalia, Fed. Rep."
+2024,57.34,SRB,Serbia
+2025,57.85,SRB,Serbia
+2026,56.65,SRB,Serbia
+2027,54.7,SRB,Serbia
+2028,55.09,SRB,Serbia
+2029,55.43,SRB,Serbia
+2030,55.78,SRB,Serbia
+2031,56.13,SRB,Serbia
+2032,56.49,SRB,Serbia
+2033,56.85,SRB,Serbia
+2034,57.21,SRB,Serbia
+2035,57.58,SRB,Serbia
+2036,57.94,SRB,Serbia
+2037,58.31,SRB,Serbia
+2038,58.68,SRB,Serbia
+2039,59.06,SRB,Serbia
+2040,59.43,SRB,Serbia
+2024,76.55,SSA,Sub-Saharan Africa (excluding high income)
+2025,70.87,SSA,Sub-Saharan Africa (excluding high income)
+2026,60.53,SSA,Sub-Saharan Africa (excluding high income)
+2027,60.63,SSA,Sub-Saharan Africa (excluding high income)
+2028,60.82,SSA,Sub-Saharan Africa (excluding high income)
+2029,61.15,SSA,Sub-Saharan Africa (excluding high income)
+2030,61.48,SSA,Sub-Saharan Africa (excluding high income)
+2031,61.81,SSA,Sub-Saharan Africa (excluding high income)
+2032,62.15,SSA,Sub-Saharan Africa (excluding high income)
+2033,62.48,SSA,Sub-Saharan Africa (excluding high income)
+2034,62.82,SSA,Sub-Saharan Africa (excluding high income)
+2035,63.17,SSA,Sub-Saharan Africa (excluding high income)
+2036,63.52,SSA,Sub-Saharan Africa (excluding high income)
+2037,63.88,SSA,Sub-Saharan Africa (excluding high income)
+2038,64.25,SSA,Sub-Saharan Africa (excluding high income)
+2039,64.61,SSA,Sub-Saharan Africa (excluding high income)
+2040,64.98,SSA,Sub-Saharan Africa (excluding high income)
+2024,5.71,SSD,South Sudan
+2025,5.71,SSD,South Sudan
+2026,5.71,SSD,South Sudan
+2027,5.71,SSD,South Sudan
+2028,5.71,SSD,South Sudan
+2029,62.83,SSD,South Sudan
+2030,63.23,SSD,South Sudan
+2031,63.61,SSD,South Sudan
+2032,64.0,SSD,South Sudan
+2033,64.38,SSD,South Sudan
+2034,64.75,SSD,South Sudan
+2035,65.13,SSD,South Sudan
+2036,65.49,SSD,South Sudan
+2037,65.86,SSD,South Sudan
+2038,66.22,SSD,South Sudan
+2039,66.57,SSD,South Sudan
+2040,66.92,SSD,South Sudan
+2024,77.11,SSF,Sub-Saharan Africa
+2025,71.26,SSF,Sub-Saharan Africa
+2026,60.57,SSF,Sub-Saharan Africa
+2027,60.68,SSF,Sub-Saharan Africa
+2028,60.87,SSF,Sub-Saharan Africa
+2029,61.2,SSF,Sub-Saharan Africa
+2030,61.53,SSF,Sub-Saharan Africa
+2031,61.86,SSF,Sub-Saharan Africa
+2032,62.2,SSF,Sub-Saharan Africa
+2033,62.54,SSF,Sub-Saharan Africa
+2034,62.88,SSF,Sub-Saharan Africa
+2035,63.22,SSF,Sub-Saharan Africa
+2036,63.57,SSF,Sub-Saharan Africa
+2037,63.93,SSF,Sub-Saharan Africa
+2038,64.3,SSF,Sub-Saharan Africa
+2039,64.66,SSF,Sub-Saharan Africa
+2040,65.03,SSF,Sub-Saharan Africa
+2024,5.71,SST,Small states
+2025,5.71,SST,Small states
+2026,5.71,SST,Small states
+2027,5.71,SST,Small states
+2028,5.71,SST,Small states
+2029,60.48,SST,Small states
+2030,60.87,SST,Small states
+2031,61.26,SST,Small states
+2032,61.65,SST,Small states
+2033,62.03,SST,Small states
+2034,62.41,SST,Small states
+2035,62.78,SST,Small states
+2036,63.15,SST,Small states
+2037,63.51,SST,Small states
+2038,63.87,SST,Small states
+2039,64.22,SST,Small states
+2040,64.58,SST,Small states
+2024,5.71,STP,Sao Tome and Principe
+2025,5.71,STP,Sao Tome and Principe
+2026,5.71,STP,Sao Tome and Principe
+2027,5.71,STP,Sao Tome and Principe
+2028,5.71,STP,Sao Tome and Principe
+2029,59.6,STP,Sao Tome and Principe
+2030,59.99,STP,Sao Tome and Principe
+2031,60.37,STP,Sao Tome and Principe
+2032,60.75,STP,Sao Tome and Principe
+2033,61.12,STP,Sao Tome and Principe
+2034,61.49,STP,Sao Tome and Principe
+2035,61.85,STP,Sao Tome and Principe
+2036,62.21,STP,Sao Tome and Principe
+2037,62.57,STP,Sao Tome and Principe
+2038,62.92,STP,Sao Tome and Principe
+2039,63.27,STP,Sao Tome and Principe
+2040,63.61,STP,Sao Tome and Principe
+2024,53.49,SUR,Suriname
+2025,54.36,SUR,Suriname
+2026,55.73,SUR,Suriname
+2027,57.55,SUR,Suriname
+2028,57.75,SUR,Suriname
+2029,58.06,SUR,Suriname
+2030,58.38,SUR,Suriname
+2031,58.71,SUR,Suriname
+2032,59.05,SUR,Suriname
+2033,59.39,SUR,Suriname
+2034,59.74,SUR,Suriname
+2035,60.09,SUR,Suriname
+2036,60.45,SUR,Suriname
+2037,60.8,SUR,Suriname
+2038,61.16,SUR,Suriname
+2039,61.52,SUR,Suriname
+2040,61.88,SUR,Suriname
+2024,53.36,SVK,Slovak Republic
+2025,54.05,SVK,Slovak Republic
+2026,54.91,SVK,Slovak Republic
+2027,56.14,SVK,Slovak Republic
+2028,56.59,SVK,Slovak Republic
+2029,56.95,SVK,Slovak Republic
+2030,57.32,SVK,Slovak Republic
+2031,57.69,SVK,Slovak Republic
+2032,58.06,SVK,Slovak Republic
+2033,58.45,SVK,Slovak Republic
+2034,58.84,SVK,Slovak Republic
+2035,59.23,SVK,Slovak Republic
+2036,59.63,SVK,Slovak Republic
+2037,60.02,SVK,Slovak Republic
+2038,60.42,SVK,Slovak Republic
+2039,60.82,SVK,Slovak Republic
+2040,61.22,SVK,Slovak Republic
+2024,54.56,SVN,Slovenia
+2025,55.08,SVN,Slovenia
+2026,54.79,SVN,Slovenia
+2027,54.2,SVN,Slovenia
+2028,54.7,SVN,Slovenia
+2029,55.08,SVN,Slovenia
+2030,55.46,SVN,Slovenia
+2031,55.84,SVN,Slovenia
+2032,56.24,SVN,Slovenia
+2033,56.64,SVN,Slovenia
+2034,57.04,SVN,Slovenia
+2035,57.45,SVN,Slovenia
+2036,57.85,SVN,Slovenia
+2037,58.26,SVN,Slovenia
+2038,58.67,SVN,Slovenia
+2039,59.08,SVN,Slovenia
+2040,59.49,SVN,Slovenia
+2024,71.26,SWE,Sweden
+2025,67.84,SWE,Sweden
+2026,60.16,SWE,Sweden
+2027,47.12,SWE,Sweden
+2028,47.56,SWE,Sweden
+2029,47.97,SWE,Sweden
+2030,48.39,SWE,Sweden
+2031,48.8,SWE,Sweden
+2032,49.22,SWE,Sweden
+2033,49.64,SWE,Sweden
+2034,50.07,SWE,Sweden
+2035,50.49,SWE,Sweden
+2036,50.92,SWE,Sweden
+2037,51.35,SWE,Sweden
+2038,51.77,SWE,Sweden
+2039,52.19,SWE,Sweden
+2040,52.58,SWE,Sweden
+2024,81.0,SWZ,Eswatini
+2025,79.01,SWZ,Eswatini
+2026,75.66,SWZ,Eswatini
+2027,69.71,SWZ,Eswatini
+2028,59.86,SWZ,Eswatini
+2029,60.19,SWZ,Eswatini
+2030,60.51,SWZ,Eswatini
+2031,60.84,SWZ,Eswatini
+2032,61.17,SWZ,Eswatini
+2033,61.52,SWZ,Eswatini
+2034,61.87,SWZ,Eswatini
+2035,62.22,SWZ,Eswatini
+2036,62.58,SWZ,Eswatini
+2037,62.94,SWZ,Eswatini
+2038,63.3,SWZ,Eswatini
+2039,63.66,SWZ,Eswatini
+2040,64.03,SWZ,Eswatini
+2024,5.71,SXM,Sint Maarten (Dutch part)
+2025,5.71,SXM,Sint Maarten (Dutch part)
+2026,5.71,SXM,Sint Maarten (Dutch part)
+2027,5.71,SXM,Sint Maarten (Dutch part)
+2028,5.71,SXM,Sint Maarten (Dutch part)
+2029,62.22,SXM,Sint Maarten (Dutch part)
+2030,62.63,SXM,Sint Maarten (Dutch part)
+2031,63.03,SXM,Sint Maarten (Dutch part)
+2032,63.42,SXM,Sint Maarten (Dutch part)
+2033,63.82,SXM,Sint Maarten (Dutch part)
+2034,64.2,SXM,Sint Maarten (Dutch part)
+2035,64.59,SXM,Sint Maarten (Dutch part)
+2036,64.96,SXM,Sint Maarten (Dutch part)
+2037,65.34,SXM,Sint Maarten (Dutch part)
+2038,65.71,SXM,Sint Maarten (Dutch part)
+2039,66.07,SXM,Sint Maarten (Dutch part)
+2040,66.43,SXM,Sint Maarten (Dutch part)
+2024,5.71,SYC,Seychelles
+2025,5.71,SYC,Seychelles
+2026,5.71,SYC,Seychelles
+2027,5.71,SYC,Seychelles
+2028,5.71,SYC,Seychelles
+2029,60.76,SYC,Seychelles
+2030,61.16,SYC,Seychelles
+2031,61.55,SYC,Seychelles
+2032,61.94,SYC,Seychelles
+2033,62.32,SYC,Seychelles
+2034,62.7,SYC,Seychelles
+2035,63.07,SYC,Seychelles
+2036,63.45,SYC,Seychelles
+2037,63.81,SYC,Seychelles
+2038,64.17,SYC,Seychelles
+2039,64.53,SYC,Seychelles
+2040,64.88,SYC,Seychelles
+2024,5.71,SYR,Syrian Arab Republic
+2025,5.71,SYR,Syrian Arab Republic
+2026,5.71,SYR,Syrian Arab Republic
+2027,5.71,SYR,Syrian Arab Republic
+2028,5.71,SYR,Syrian Arab Republic
+2029,61.81,SYR,Syrian Arab Republic
+2030,62.21,SYR,Syrian Arab Republic
+2031,62.59,SYR,Syrian Arab Republic
+2032,62.98,SYR,Syrian Arab Republic
+2033,63.36,SYR,Syrian Arab Republic
+2034,63.73,SYR,Syrian Arab Republic
+2035,64.1,SYR,Syrian Arab Republic
+2036,64.47,SYR,Syrian Arab Republic
+2037,64.83,SYR,Syrian Arab Republic
+2038,65.19,SYR,Syrian Arab Republic
+2039,65.54,SYR,Syrian Arab Republic
+2040,65.89,SYR,Syrian Arab Republic
+2024,5.71,TCA,Turks and Caicos Islands
+2025,5.71,TCA,Turks and Caicos Islands
+2026,5.71,TCA,Turks and Caicos Islands
+2027,5.71,TCA,Turks and Caicos Islands
+2028,5.71,TCA,Turks and Caicos Islands
+2029,61.96,TCA,Turks and Caicos Islands
+2030,62.37,TCA,Turks and Caicos Islands
+2031,62.76,TCA,Turks and Caicos Islands
+2032,63.16,TCA,Turks and Caicos Islands
+2033,63.55,TCA,Turks and Caicos Islands
+2034,63.94,TCA,Turks and Caicos Islands
+2035,64.32,TCA,Turks and Caicos Islands
+2036,64.69,TCA,Turks and Caicos Islands
+2037,65.07,TCA,Turks and Caicos Islands
+2038,65.44,TCA,Turks and Caicos Islands
+2039,65.8,TCA,Turks and Caicos Islands
+2040,66.16,TCA,Turks and Caicos Islands
+2024,83.66,TCD,Chad
+2025,81.39,TCD,Chad
+2026,77.55,TCD,Chad
+2027,71.59,TCD,Chad
+2028,61.15,TCD,Chad
+2029,61.48,TCD,Chad
+2030,61.81,TCD,Chad
+2031,62.14,TCD,Chad
+2032,62.47,TCD,Chad
+2033,62.82,TCD,Chad
+2034,63.18,TCD,Chad
+2035,63.54,TCD,Chad
+2036,63.9,TCD,Chad
+2037,64.26,TCD,Chad
+2038,64.62,TCD,Chad
+2039,64.98,TCD,Chad
+2040,65.35,TCD,Chad
+2024,53.99,TEA,East Asia & Pacific (IDA & IBRD countries)
+2025,54.84,TEA,East Asia & Pacific (IDA & IBRD countries)
+2026,55.8,TEA,East Asia & Pacific (IDA & IBRD countries)
+2027,55.71,TEA,East Asia & Pacific (IDA & IBRD countries)
+2028,55.77,TEA,East Asia & Pacific (IDA & IBRD countries)
+2029,56.11,TEA,East Asia & Pacific (IDA & IBRD countries)
+2030,56.45,TEA,East Asia & Pacific (IDA & IBRD countries)
+2031,56.79,TEA,East Asia & Pacific (IDA & IBRD countries)
+2032,57.14,TEA,East Asia & Pacific (IDA & IBRD countries)
+2033,57.49,TEA,East Asia & Pacific (IDA & IBRD countries)
+2034,57.84,TEA,East Asia & Pacific (IDA & IBRD countries)
+2035,58.2,TEA,East Asia & Pacific (IDA & IBRD countries)
+2036,58.57,TEA,East Asia & Pacific (IDA & IBRD countries)
+2037,58.94,TEA,East Asia & Pacific (IDA & IBRD countries)
+2038,59.32,TEA,East Asia & Pacific (IDA & IBRD countries)
+2039,59.7,TEA,East Asia & Pacific (IDA & IBRD countries)
+2040,60.08,TEA,East Asia & Pacific (IDA & IBRD countries)
+2024,48.13,TEC,Europe & Central Asia (IDA & IBRD countries)
+2025,51.62,TEC,Europe & Central Asia (IDA & IBRD countries)
+2026,55.58,TEC,Europe & Central Asia (IDA & IBRD countries)
+2027,55.77,TEC,Europe & Central Asia (IDA & IBRD countries)
+2028,55.98,TEC,Europe & Central Asia (IDA & IBRD countries)
+2029,56.31,TEC,Europe & Central Asia (IDA & IBRD countries)
+2030,56.64,TEC,Europe & Central Asia (IDA & IBRD countries)
+2031,56.98,TEC,Europe & Central Asia (IDA & IBRD countries)
+2032,57.32,TEC,Europe & Central Asia (IDA & IBRD countries)
+2033,57.68,TEC,Europe & Central Asia (IDA & IBRD countries)
+2034,58.04,TEC,Europe & Central Asia (IDA & IBRD countries)
+2035,58.4,TEC,Europe & Central Asia (IDA & IBRD countries)
+2036,58.77,TEC,Europe & Central Asia (IDA & IBRD countries)
+2037,59.13,TEC,Europe & Central Asia (IDA & IBRD countries)
+2038,59.5,TEC,Europe & Central Asia (IDA & IBRD countries)
+2039,59.87,TEC,Europe & Central Asia (IDA & IBRD countries)
+2040,60.25,TEC,Europe & Central Asia (IDA & IBRD countries)
+2024,82.99,TGO,Togo
+2025,78.86,TGO,Togo
+2026,72.26,TGO,Togo
+2027,60.72,TGO,Togo
+2028,60.89,TGO,Togo
+2029,61.22,TGO,Togo
+2030,61.55,TGO,Togo
+2031,61.89,TGO,Togo
+2032,62.23,TGO,Togo
+2033,62.58,TGO,Togo
+2034,62.94,TGO,Togo
+2035,63.29,TGO,Togo
+2036,63.65,TGO,Togo
+2037,64.02,TGO,Togo
+2038,64.38,TGO,Togo
+2039,64.75,TGO,Togo
+2040,65.11,TGO,Togo
+2024,58.58,THA,Thailand
+2025,57.48,THA,Thailand
+2026,57.16,THA,Thailand
+2027,57.54,THA,Thailand
+2028,57.71,THA,Thailand
+2029,58.05,THA,Thailand
+2030,58.38,THA,Thailand
+2031,58.74,THA,Thailand
+2032,59.09,THA,Thailand
+2033,59.45,THA,Thailand
+2034,59.81,THA,Thailand
+2035,60.18,THA,Thailand
+2036,60.54,THA,Thailand
+2037,60.91,THA,Thailand
+2038,61.28,THA,Thailand
+2039,61.65,THA,Thailand
+2040,62.03,THA,Thailand
+2024,68.65,TJK,Tajikistan
+2025,66.15,TJK,Tajikistan
+2026,62.8,TJK,Tajikistan
+2027,59.1,TJK,Tajikistan
+2028,59.3,TJK,Tajikistan
+2029,59.62,TJK,Tajikistan
+2030,59.94,TJK,Tajikistan
+2031,60.27,TJK,Tajikistan
+2032,60.6,TJK,Tajikistan
+2033,60.95,TJK,Tajikistan
+2034,61.3,TJK,Tajikistan
+2035,61.65,TJK,Tajikistan
+2036,62.0,TJK,Tajikistan
+2037,62.35,TJK,Tajikistan
+2038,62.71,TJK,Tajikistan
+2039,63.07,TJK,Tajikistan
+2040,63.43,TJK,Tajikistan
+2024,30.01,TKM,Turkmenistan
+2025,36.02,TKM,Turkmenistan
+2026,44.17,TKM,Turkmenistan
+2027,53.86,TKM,Turkmenistan
+2028,57.93,TKM,Turkmenistan
+2029,58.25,TKM,Turkmenistan
+2030,58.58,TKM,Turkmenistan
+2031,58.91,TKM,Turkmenistan
+2032,59.26,TKM,Turkmenistan
+2033,59.61,TKM,Turkmenistan
+2034,59.97,TKM,Turkmenistan
+2035,60.32,TKM,Turkmenistan
+2036,60.68,TKM,Turkmenistan
+2037,61.05,TKM,Turkmenistan
+2038,61.41,TKM,Turkmenistan
+2039,61.77,TKM,Turkmenistan
+2040,62.14,TKM,Turkmenistan
+2024,64.06,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2025,62.26,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2026,58.49,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2027,58.57,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2028,58.76,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2029,59.1,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2030,59.45,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2031,59.8,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2032,60.15,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2033,60.51,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2034,60.88,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2035,61.26,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2036,61.64,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2037,62.01,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2038,62.39,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2039,62.78,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2040,63.16,TLA,Latin America & the Caribbean (IDA & IBRD countries)
+2024,5.71,TLS,Timor-Leste
+2025,5.71,TLS,Timor-Leste
+2026,5.71,TLS,Timor-Leste
+2027,5.71,TLS,Timor-Leste
+2028,5.71,TLS,Timor-Leste
+2029,59.48,TLS,Timor-Leste
+2030,59.87,TLS,Timor-Leste
+2031,60.25,TLS,Timor-Leste
+2032,60.63,TLS,Timor-Leste
+2033,61.0,TLS,Timor-Leste
+2034,61.37,TLS,Timor-Leste
+2035,61.73,TLS,Timor-Leste
+2036,62.09,TLS,Timor-Leste
+2037,62.44,TLS,Timor-Leste
+2038,62.79,TLS,Timor-Leste
+2039,63.14,TLS,Timor-Leste
+2040,63.48,TLS,Timor-Leste
+2024,54.17,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2025,56.27,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2026,59.03,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2027,59.44,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2028,59.63,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2029,59.96,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2030,60.29,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2031,60.63,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2032,60.97,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2033,61.32,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2034,61.68,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2035,62.04,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2036,62.4,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2037,62.77,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2038,63.14,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2039,63.51,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2040,63.88,TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+2024,5.71,TON,Tonga
+2025,5.71,TON,Tonga
+2026,5.71,TON,Tonga
+2027,5.71,TON,Tonga
+2028,5.71,TON,Tonga
+2029,59.81,TON,Tonga
+2030,60.2,TON,Tonga
+2031,60.58,TON,Tonga
+2032,60.96,TON,Tonga
+2033,61.34,TON,Tonga
+2034,61.71,TON,Tonga
+2035,62.07,TON,Tonga
+2036,62.44,TON,Tonga
+2037,62.79,TON,Tonga
+2038,63.15,TON,Tonga
+2039,63.5,TON,Tonga
+2040,63.84,TON,Tonga
+2024,66.22,TSA,South Asia (IDA & IBRD)
+2025,63.93,TSA,South Asia (IDA & IBRD)
+2026,59.81,TSA,South Asia (IDA & IBRD)
+2027,59.89,TSA,South Asia (IDA & IBRD)
+2028,60.06,TSA,South Asia (IDA & IBRD)
+2029,60.4,TSA,South Asia (IDA & IBRD)
+2030,60.73,TSA,South Asia (IDA & IBRD)
+2031,61.08,TSA,South Asia (IDA & IBRD)
+2032,61.42,TSA,South Asia (IDA & IBRD)
+2033,61.77,TSA,South Asia (IDA & IBRD)
+2034,62.11,TSA,South Asia (IDA & IBRD)
+2035,62.47,TSA,South Asia (IDA & IBRD)
+2036,62.83,TSA,South Asia (IDA & IBRD)
+2037,63.2,TSA,South Asia (IDA & IBRD)
+2038,63.58,TSA,South Asia (IDA & IBRD)
+2039,63.95,TSA,South Asia (IDA & IBRD)
+2040,64.32,TSA,South Asia (IDA & IBRD)
+2024,77.12,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2025,71.24,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2026,60.56,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2027,60.66,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2028,60.85,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2029,61.18,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2030,61.52,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2031,61.85,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2032,62.19,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2033,62.53,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2034,62.88,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2035,63.22,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2036,63.58,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2037,63.95,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2038,64.32,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2039,64.69,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2040,65.06,TSS,Sub-Saharan Africa (IDA & IBRD countries)
+2024,34.12,TTO,Trinidad and Tobago
+2025,39.28,TTO,Trinidad and Tobago
+2026,45.82,TTO,Trinidad and Tobago
+2027,53.11,TTO,Trinidad and Tobago
+2028,53.23,TTO,Trinidad and Tobago
+2029,53.57,TTO,Trinidad and Tobago
+2030,53.93,TTO,Trinidad and Tobago
+2031,54.28,TTO,Trinidad and Tobago
+2032,54.64,TTO,Trinidad and Tobago
+2033,55.0,TTO,Trinidad and Tobago
+2034,55.37,TTO,Trinidad and Tobago
+2035,55.73,TTO,Trinidad and Tobago
+2036,56.1,TTO,Trinidad and Tobago
+2037,56.47,TTO,Trinidad and Tobago
+2038,56.85,TTO,Trinidad and Tobago
+2039,57.23,TTO,Trinidad and Tobago
+2040,57.6,TTO,Trinidad and Tobago
+2024,53.21,TUN,Tunisia
+2025,54.63,TUN,Tunisia
+2026,56.27,TUN,Tunisia
+2027,58.92,TUN,Tunisia
+2028,59.28,TUN,Tunisia
+2029,59.61,TUN,Tunisia
+2030,59.94,TUN,Tunisia
+2031,60.27,TUN,Tunisia
+2032,60.63,TUN,Tunisia
+2033,60.98,TUN,Tunisia
+2034,61.34,TUN,Tunisia
+2035,61.7,TUN,Tunisia
+2036,62.06,TUN,Tunisia
+2037,62.42,TUN,Tunisia
+2038,62.79,TUN,Tunisia
+2039,63.15,TUN,Tunisia
+2040,63.52,TUN,Tunisia
+2024,51.98,TUR,Turkiye
+2025,52.85,TUR,Turkiye
+2026,54.31,TUR,Turkiye
+2027,57.04,TUR,Turkiye
+2028,57.33,TUR,Turkiye
+2029,57.67,TUR,Turkiye
+2030,58.01,TUR,Turkiye
+2031,58.36,TUR,Turkiye
+2032,58.71,TUR,Turkiye
+2033,59.08,TUR,Turkiye
+2034,59.45,TUR,Turkiye
+2035,59.82,TUR,Turkiye
+2036,60.19,TUR,Turkiye
+2037,60.56,TUR,Turkiye
+2038,60.94,TUR,Turkiye
+2039,61.32,TUR,Turkiye
+2040,61.7,TUR,Turkiye
+2024,5.71,TUV,Tuvalu
+2025,5.71,TUV,Tuvalu
+2026,5.71,TUV,Tuvalu
+2027,5.71,TUV,Tuvalu
+2028,5.71,TUV,Tuvalu
+2029,59.86,TUV,Tuvalu
+2030,60.25,TUV,Tuvalu
+2031,60.64,TUV,Tuvalu
+2032,61.02,TUV,Tuvalu
+2033,61.39,TUV,Tuvalu
+2034,61.77,TUV,Tuvalu
+2035,62.13,TUV,Tuvalu
+2036,62.49,TUV,Tuvalu
+2037,62.85,TUV,Tuvalu
+2038,63.21,TUV,Tuvalu
+2039,63.56,TUV,Tuvalu
+2040,63.9,TUV,Tuvalu
+2024,83.79,TZA,Tanzania
+2025,79.82,TZA,Tanzania
+2026,72.85,TZA,Tanzania
+2027,60.86,TZA,Tanzania
+2028,61.05,TZA,Tanzania
+2029,61.37,TZA,Tanzania
+2030,61.7,TZA,Tanzania
+2031,62.02,TZA,Tanzania
+2032,62.36,TZA,Tanzania
+2033,62.69,TZA,Tanzania
+2034,63.04,TZA,Tanzania
+2035,63.4,TZA,Tanzania
+2036,63.75,TZA,Tanzania
+2037,64.11,TZA,Tanzania
+2038,64.47,TZA,Tanzania
+2039,64.83,TZA,Tanzania
+2040,65.2,TZA,Tanzania
+2024,88.71,UGA,Uganda
+2025,86.46,UGA,Uganda
+2026,82.22,UGA,Uganda
+2027,74.99,UGA,Uganda
+2028,61.08,UGA,Uganda
+2029,61.4,UGA,Uganda
+2030,61.73,UGA,Uganda
+2031,62.06,UGA,Uganda
+2032,62.39,UGA,Uganda
+2033,62.72,UGA,Uganda
+2034,63.08,UGA,Uganda
+2035,63.43,UGA,Uganda
+2036,63.79,UGA,Uganda
+2037,64.14,UGA,Uganda
+2038,64.5,UGA,Uganda
+2039,64.87,UGA,Uganda
+2040,65.23,UGA,Uganda
+2024,48.14,UKR,Ukraine
+2025,51.06,UKR,Ukraine
+2026,54.21,UKR,Ukraine
+2027,58.08,UKR,Ukraine
+2028,58.24,UKR,Ukraine
+2029,58.56,UKR,Ukraine
+2030,58.88,UKR,Ukraine
+2031,59.21,UKR,Ukraine
+2032,59.54,UKR,Ukraine
+2033,59.89,UKR,Ukraine
+2034,60.23,UKR,Ukraine
+2035,60.59,UKR,Ukraine
+2036,60.94,UKR,Ukraine
+2037,61.3,UKR,Ukraine
+2038,61.65,UKR,Ukraine
+2039,62.02,UKR,Ukraine
+2040,62.38,UKR,Ukraine
+2024,76.78,URY,Uruguay
+2025,73.24,URY,Uruguay
+2026,67.01,URY,Uruguay
+2027,57.54,URY,Uruguay
+2028,57.7,URY,Uruguay
+2029,58.06,URY,Uruguay
+2030,58.42,URY,Uruguay
+2031,58.79,URY,Uruguay
+2032,59.15,URY,Uruguay
+2033,59.53,URY,Uruguay
+2034,59.91,URY,Uruguay
+2035,60.3,URY,Uruguay
+2036,60.69,URY,Uruguay
+2037,61.08,URY,Uruguay
+2038,61.47,URY,Uruguay
+2039,61.87,URY,Uruguay
+2040,62.26,URY,Uruguay
+2024,38.42,USA,United States
+2025,41.55,USA,United States
+2026,45.08,USA,United States
+2027,49.36,USA,United States
+2028,50.11,USA,United States
+2029,50.54,USA,United States
+2030,50.94,USA,United States
+2031,51.33,USA,United States
+2032,51.72,USA,United States
+2033,52.1,USA,United States
+2034,52.48,USA,United States
+2035,52.85,USA,United States
+2036,53.22,USA,United States
+2037,53.58,USA,United States
+2038,53.94,USA,United States
+2039,54.29,USA,United States
+2040,54.64,USA,United States
+2024,41.91,UZB,Uzbekistan
+2025,45.96,UZB,Uzbekistan
+2026,51.4,UZB,Uzbekistan
+2027,57.89,UZB,Uzbekistan
+2028,58.64,UZB,Uzbekistan
+2029,58.97,UZB,Uzbekistan
+2030,59.29,UZB,Uzbekistan
+2031,59.64,UZB,Uzbekistan
+2032,59.99,UZB,Uzbekistan
+2033,60.34,UZB,Uzbekistan
+2034,60.69,UZB,Uzbekistan
+2035,61.05,UZB,Uzbekistan
+2036,61.41,UZB,Uzbekistan
+2037,61.77,UZB,Uzbekistan
+2038,62.13,UZB,Uzbekistan
+2039,62.49,UZB,Uzbekistan
+2040,62.86,UZB,Uzbekistan
+2024,5.71,VCT,St. Vincent and the Grenadines
+2025,5.71,VCT,St. Vincent and the Grenadines
+2026,5.71,VCT,St. Vincent and the Grenadines
+2027,5.71,VCT,St. Vincent and the Grenadines
+2028,5.71,VCT,St. Vincent and the Grenadines
+2029,60.19,VCT,St. Vincent and the Grenadines
+2030,60.58,VCT,St. Vincent and the Grenadines
+2031,60.97,VCT,St. Vincent and the Grenadines
+2032,61.35,VCT,St. Vincent and the Grenadines
+2033,61.73,VCT,St. Vincent and the Grenadines
+2034,62.11,VCT,St. Vincent and the Grenadines
+2035,62.48,VCT,St. Vincent and the Grenadines
+2036,62.84,VCT,St. Vincent and the Grenadines
+2037,63.2,VCT,St. Vincent and the Grenadines
+2038,63.56,VCT,St. Vincent and the Grenadines
+2039,63.91,VCT,St. Vincent and the Grenadines
+2040,64.26,VCT,St. Vincent and the Grenadines
+2024,61.36,VEN,"Venezuela, RB"
+2025,63.79,VEN,"Venezuela, RB"
+2026,61.93,VEN,"Venezuela, RB"
+2027,58.54,VEN,"Venezuela, RB"
+2028,58.83,VEN,"Venezuela, RB"
+2029,59.15,VEN,"Venezuela, RB"
+2030,59.48,VEN,"Venezuela, RB"
+2031,59.83,VEN,"Venezuela, RB"
+2032,60.18,VEN,"Venezuela, RB"
+2033,60.53,VEN,"Venezuela, RB"
+2034,60.89,VEN,"Venezuela, RB"
+2035,61.25,VEN,"Venezuela, RB"
+2036,61.61,VEN,"Venezuela, RB"
+2037,61.97,VEN,"Venezuela, RB"
+2038,62.34,VEN,"Venezuela, RB"
+2039,62.71,VEN,"Venezuela, RB"
+2040,63.07,VEN,"Venezuela, RB"
+2024,5.71,VGB,British Virgin Islands
+2025,5.71,VGB,British Virgin Islands
+2026,5.71,VGB,British Virgin Islands
+2027,5.71,VGB,British Virgin Islands
+2028,5.71,VGB,British Virgin Islands
+2029,59.89,VGB,British Virgin Islands
+2030,60.28,VGB,British Virgin Islands
+2031,60.66,VGB,British Virgin Islands
+2032,61.04,VGB,British Virgin Islands
+2033,61.42,VGB,British Virgin Islands
+2034,61.79,VGB,British Virgin Islands
+2035,62.16,VGB,British Virgin Islands
+2036,62.52,VGB,British Virgin Islands
+2037,62.88,VGB,British Virgin Islands
+2038,63.23,VGB,British Virgin Islands
+2039,63.58,VGB,British Virgin Islands
+2040,63.93,VGB,British Virgin Islands
+2024,5.71,VIR,Virgin Islands (U.S.)
+2025,5.71,VIR,Virgin Islands (U.S.)
+2026,5.71,VIR,Virgin Islands (U.S.)
+2027,5.71,VIR,Virgin Islands (U.S.)
+2028,5.71,VIR,Virgin Islands (U.S.)
+2029,59.89,VIR,Virgin Islands (U.S.)
+2030,60.28,VIR,Virgin Islands (U.S.)
+2031,60.66,VIR,Virgin Islands (U.S.)
+2032,61.04,VIR,Virgin Islands (U.S.)
+2033,61.42,VIR,Virgin Islands (U.S.)
+2034,61.79,VIR,Virgin Islands (U.S.)
+2035,62.16,VIR,Virgin Islands (U.S.)
+2036,62.52,VIR,Virgin Islands (U.S.)
+2037,62.88,VIR,Virgin Islands (U.S.)
+2038,63.23,VIR,Virgin Islands (U.S.)
+2039,63.58,VIR,Virgin Islands (U.S.)
+2040,63.93,VIR,Virgin Islands (U.S.)
+2024,58.3,VNM,Viet Nam
+2025,58.33,VNM,Viet Nam
+2026,58.89,VNM,Viet Nam
+2027,57.8,VNM,Viet Nam
+2028,58.05,VNM,Viet Nam
+2029,58.37,VNM,Viet Nam
+2030,58.7,VNM,Viet Nam
+2031,59.05,VNM,Viet Nam
+2032,59.4,VNM,Viet Nam
+2033,59.75,VNM,Viet Nam
+2034,60.1,VNM,Viet Nam
+2035,60.46,VNM,Viet Nam
+2036,60.82,VNM,Viet Nam
+2037,61.18,VNM,Viet Nam
+2038,61.55,VNM,Viet Nam
+2039,61.91,VNM,Viet Nam
+2040,62.28,VNM,Viet Nam
+2024,5.71,VUT,Vanuatu
+2025,5.71,VUT,Vanuatu
+2026,5.71,VUT,Vanuatu
+2027,5.71,VUT,Vanuatu
+2028,5.71,VUT,Vanuatu
+2029,59.64,VUT,Vanuatu
+2030,60.03,VUT,Vanuatu
+2031,60.41,VUT,Vanuatu
+2032,60.79,VUT,Vanuatu
+2033,61.16,VUT,Vanuatu
+2034,61.53,VUT,Vanuatu
+2035,61.9,VUT,Vanuatu
+2036,62.26,VUT,Vanuatu
+2037,62.61,VUT,Vanuatu
+2038,62.96,VUT,Vanuatu
+2039,63.31,VUT,Vanuatu
+2040,63.65,VUT,Vanuatu
+2024,59.45,WLD,World
+2025,59.86,WLD,World
+2026,60.0,WLD,World
+2027,60.11,WLD,World
+2028,60.34,WLD,World
+2029,60.71,WLD,World
+2030,61.09,WLD,World
+2031,61.47,WLD,World
+2032,61.85,WLD,World
+2033,62.24,WLD,World
+2034,62.63,WLD,World
+2035,63.02,WLD,World
+2036,63.41,WLD,World
+2037,63.8,WLD,World
+2038,64.19,WLD,World
+2039,64.59,WLD,World
+2040,64.98,WLD,World
+2024,5.71,WSM,Samoa
+2025,5.71,WSM,Samoa
+2026,5.71,WSM,Samoa
+2027,5.71,WSM,Samoa
+2028,5.71,WSM,Samoa
+2029,59.75,WSM,Samoa
+2030,60.13,WSM,Samoa
+2031,60.52,WSM,Samoa
+2032,60.9,WSM,Samoa
+2033,61.27,WSM,Samoa
+2034,61.64,WSM,Samoa
+2035,62.01,WSM,Samoa
+2036,62.37,WSM,Samoa
+2037,62.72,WSM,Samoa
+2038,63.08,WSM,Samoa
+2039,63.43,WSM,Samoa
+2040,63.77,WSM,Samoa
+2024,5.71,XKX,Kosovo
+2025,5.71,XKX,Kosovo
+2026,5.71,XKX,Kosovo
+2027,5.71,XKX,Kosovo
+2028,5.71,XKX,Kosovo
+2029,59.86,XKX,Kosovo
+2030,60.24,XKX,Kosovo
+2031,60.63,XKX,Kosovo
+2032,61.01,XKX,Kosovo
+2033,61.38,XKX,Kosovo
+2034,61.76,XKX,Kosovo
+2035,62.12,XKX,Kosovo
+2036,62.48,XKX,Kosovo
+2037,62.84,XKX,Kosovo
+2038,63.2,XKX,Kosovo
+2039,63.55,XKX,Kosovo
+2040,63.89,XKX,Kosovo
+2024,5.71,YEM,"Yemen, Rep."
+2025,5.71,YEM,"Yemen, Rep."
+2026,5.71,YEM,"Yemen, Rep."
+2027,5.71,YEM,"Yemen, Rep."
+2028,5.71,YEM,"Yemen, Rep."
+2029,62.78,YEM,"Yemen, Rep."
+2030,63.18,YEM,"Yemen, Rep."
+2031,63.57,YEM,"Yemen, Rep."
+2032,63.95,YEM,"Yemen, Rep."
+2033,64.33,YEM,"Yemen, Rep."
+2034,64.71,YEM,"Yemen, Rep."
+2035,65.08,YEM,"Yemen, Rep."
+2036,65.45,YEM,"Yemen, Rep."
+2037,65.81,YEM,"Yemen, Rep."
+2038,66.17,YEM,"Yemen, Rep."
+2039,66.52,YEM,"Yemen, Rep."
+2040,66.87,YEM,"Yemen, Rep."
+2024,47.86,ZAF,South Africa
+2025,50.54,ZAF,South Africa
+2026,53.39,ZAF,South Africa
+2027,56.94,ZAF,South Africa
+2028,57.29,ZAF,South Africa
+2029,57.61,ZAF,South Africa
+2030,57.94,ZAF,South Africa
+2031,58.27,ZAF,South Africa
+2032,58.62,ZAF,South Africa
+2033,58.96,ZAF,South Africa
+2034,59.32,ZAF,South Africa
+2035,59.67,ZAF,South Africa
+2036,60.03,ZAF,South Africa
+2037,60.38,ZAF,South Africa
+2038,60.75,ZAF,South Africa
+2039,61.11,ZAF,South Africa
+2040,61.47,ZAF,South Africa
+2024,84.84,ZMB,Zambia
+2025,80.56,ZMB,Zambia
+2026,73.22,ZMB,Zambia
+2027,60.15,ZMB,Zambia
+2028,60.32,ZMB,Zambia
+2029,60.64,ZMB,Zambia
+2030,60.96,ZMB,Zambia
+2031,61.29,ZMB,Zambia
+2032,61.61,ZMB,Zambia
+2033,61.95,ZMB,Zambia
+2034,62.3,ZMB,Zambia
+2035,62.65,ZMB,Zambia
+2036,63.0,ZMB,Zambia
+2037,63.36,ZMB,Zambia
+2038,63.72,ZMB,Zambia
+2039,64.08,ZMB,Zambia
+2040,64.44,ZMB,Zambia
+2024,84.12,ZWE,Zimbabwe
+2025,80.36,ZWE,Zimbabwe
+2026,73.2,ZWE,Zimbabwe
+2027,60.33,ZWE,Zimbabwe
+2028,60.61,ZWE,Zimbabwe
+2029,60.94,ZWE,Zimbabwe
+2030,61.27,ZWE,Zimbabwe
+2031,61.6,ZWE,Zimbabwe
+2032,61.94,ZWE,Zimbabwe
+2033,62.3,ZWE,Zimbabwe
+2034,62.66,ZWE,Zimbabwe
+2035,63.01,ZWE,Zimbabwe
+2036,63.38,ZWE,Zimbabwe
+2037,63.74,ZWE,Zimbabwe
+2038,64.11,ZWE,Zimbabwe
+2039,64.47,ZWE,Zimbabwe
+2040,64.84,ZWE,Zimbabwe
