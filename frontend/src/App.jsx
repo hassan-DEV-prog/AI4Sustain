@@ -5,7 +5,8 @@ import TopBar from './components/TopBar.jsx'
 import LandingStats from './components/LandingStats.jsx'
 import axios from 'axios'
 
-const API = 'http://localhost:8000'
+//const API = 'http://localhost:8000'
+const API = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
 function SplashScreen({ onDone }) {
   useEffect(() => {
