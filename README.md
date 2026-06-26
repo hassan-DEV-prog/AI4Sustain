@@ -3,6 +3,7 @@
 > **As AI infrastructure scales globally — which countries run out of sustainable resources first?**
 
 AI4Sustain is a full-stack AI/ML web application that predicts and visualises the environmental and socio-economic impact of artificial intelligence infrastructure expansion across **261 countries worldwide**.
+🌍 **Live Demo:** https://ai4sustain.vercel.app
 
 ---
 
